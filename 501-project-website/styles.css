@@ -1,0 +1,81 @@
+
+body {
+    font-family:Optima;
+    background-image: ;
+    background-color: ;
+
+}
+
+ul {
+    font-family:Optima;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: hsl(234, 91%, 23%);
+    max-width:1357px;
+}
+
+li {
+    float: left;
+}
+
+li a, .dropbtn {
+    font-family:Optima;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+    font-family:Optima;
+    background-color: hsl(234, 91%, 23%);
+}
+
+li.dropdown {
+    font-family:Optima; 
+    display: inline-block;
+}
+
+.dropdown-content {
+    font-family:Optima;
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;   
+}
+
+.dropdown-content a {
+    font-family:Optima;
+    color: hsl(234, 91%, 23%);
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    
+}
+
+.dropdown:hover .dropdown-content {
+    font-family:Optima;
+    display: block;
+    opacity: .8;
+}
+
+td {font-family:Optima;
+    padding: 5px;
+    text-align: left;
+    width: 500px;
+}
+
+tr{
+    font-family:Optima;
+    padding: 0px;
+    text-align: top;
+    background-color:#ffffff
+}
+
+img:hover {
+  opacity: .6;
+}
