@@ -1,8 +1,8 @@
 
 body {
     font-family:Optima;
-    background-image: ;
-    background-color: ;
+    background-image:;
+    background-color: hsl(233, 69%, 97%) ;
 
 }
 
@@ -12,8 +12,24 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: hsl(234, 91%, 23%);
-    max-width:1357px;
+    background-color: hsl(234, 54%, 33%);
+    max-width:2000px;
+}
+
+
+h1 {font-family:Optima;
+    text-align: left;
+    font-size:30px;
+}
+
+h2 {font-family:Optima;
+    text-align: left;
+    font-size: 20px;
+}
+
+p {font-family:Optima;
+    text-align: left;
+    font: size 14px;
 }
 
 li {
@@ -31,7 +47,7 @@ li a, .dropbtn {
 
 li a:hover, .dropdown:hover .dropbtn {
     font-family:Optima;
-    background-color: hsl(234, 91%, 23%);
+    background-color: hsl(234, 54%, 33%);
 }
 
 li.dropdown {
@@ -43,7 +59,7 @@ li.dropdown {
     font-family:Optima;
     display: none;
     position: absolute;
-    background-color: white;
+    background-color: hsl(233, 69%, 97%)  ;
     min-width: 160px;   
 }
 
@@ -66,14 +82,15 @@ li.dropdown {
 td {font-family:Optima;
     padding: 5px;
     text-align: left;
-    width: 500px;
+    width: 650px;
+    background-color: hsl(233, 69%, 97%) ; 
 }
 
 tr{
     font-family:Optima;
     padding: 0px;
-    text-align: top;
-    background-color:#ffffff
+    text-align: left;
+    background-color:hsl(233, 69%, 97%) 
 }
 
 img:hover {
