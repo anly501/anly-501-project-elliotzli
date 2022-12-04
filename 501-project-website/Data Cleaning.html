@@ -82,8 +82,8 @@
 
 <!--ROW-1 COL-2-->
 <td>
-<h2><strong>Illicit Drug Use 2019-2020 Based On Dempgraphic Characteristics</strong></h2>
-<p><a href="../codes/data cleaning/Illicit drug use 2019-2020 based on dempgraphic info.ipynb">Click here for original python script.</a></p>
+<h2><strong>Illicit Drug Use 2019-2020 Based On Demographic Characteristics</strong></h2>
+<p><a href="../codes/data cleaning/Illicit drug use 2019-2020 based on demographic info.ipynb">Click here for original python script.</a></p>
 <p><a href="../data/pre-clean data/Illicit Drug Use 2019-2020 Aged 12 or Older Age Group and Demographic Characteristics.csv">Illicit Drug Use 2019-2020 Aged 12 or Older Age Group and Demographic Characteristics.csv</a></p>
 <p><a href="../data/pre-clean data/Illicit Drug Use 2019-2020 Aged 12 or Older Age Group and Geographic and Socioeconomic Characteristics.csv">Illicit Drug Use 2019-2020 Aged 12 or Older Age Group and Geographic and Socioeconomic Characteristics.csv</a></p>
 
@@ -113,10 +113,117 @@
 <p>4. I changed all captial characters into the uniform standard.</p>
 <p>5. I applied these changes to the other tables.</p>
 </td>
-
-<!--TABLE ROW-2-->
 </tr>
-</table>
+
+<!--TABLE ROW-1-->
+<tr>
+
+<!--ROW-1 COL-1-->
+<td>
+<h2><strong>Illicit Drug Use 2015-2020 Based On Drug Types</strong></h2>
+<p><a href="../codes/data cleaning/Illicit drug use 2015-2020 based on drug types.ipynb">Click here for original python script.</a></p>
+<p><a href="../data/pre-clean data/Types of Illicit Drug, Tobacco Product, and Alcohol Use in Past Year- Among People Aged 12 to 17; Numbers in Thousands, 2002-2020.csv">Types of Illicit Drug, Tobacco Product, and Alcohol Use in Past Year- Among People Aged 12 to 17; Numbers in Thousands, 2002-2020.csv</a></p>
+<p><a href="../data/pre-clean data/Types of Illicit Drug, Tobacco Product, and Alcohol Use in Past Year- Among People Aged 18 to 25; Numbers in Thousands, 2002-2020.csv">Types of Illicit Drug, Tobacco Product, and Alcohol Use in Past Year- Among People Aged 18 to 25; Numbers in Thousands, 2002-2020.csv</a></p>
+<p><a href="../data/pre-clean data/Types of Illicit Drug, Tobacco Product, and Alcohol Use in Past Year- Among People Aged 26 or Older; Numbers in Thousands, 2002-2020.csv">Types of Illicit Drug, Tobacco Product, and Alcohol Use in Past Year- Among People Aged 26 or Older; Numbers in Thousands, 2002-2020.csv</a></p>
+<p> This table is merged from three orginal datasets I collected from <a href="https://www.samhsa.gov/data/sites/default/files/reports/rpt35323/NSDUHDetailedTabs2020v25/NSDUHDetailedTabs2020v25/NSDUHDetTabsSect7pe2020.htm#tab7-1a">the original dataset.</a> table 7.11A, 7.14A and 7.5A</p>
+<p><strong>Details </strong></p>
+<p>Numbers in Thousands</p>
+<p>1. I dropped columns 2002-2014 because certain drug information were not collected back then.</p>
+<p>2. I dropped rows that either  further in detail in the table. For example, contained no mumeric information or specifically illustarted further in the table. For example, I dropped the data entry of obtaining the sum data about alcohol, and kept subsections.</p>
+<p>3. I deleted coma ',' in the original table in order to unify numeric datatypes.</p>
+<p>4. I changed all captial characters into the uniform standard.</p>
+<p>5. I applied these changes to the other tables.</p>
+</td>
+
+<!--ROW-1 COL-2-->
+<td>
+<h2><strong>Illicit Drug Use 2019-2020 Based On Demographic Characteristics</strong></h2>
+<p><a href="../codes/data cleaning/Illicit drug use 2019-2020 based on demographic info.ipynb">Click here for original python script.</a></p>
+<p><a href="../data/pre-clean data/Illicit Drug Use 2019-2020 Aged 12 or Older Age Group and Demographic Characteristics.csv">Illicit Drug Use 2019-2020 Aged 12 or Older Age Group and Demographic Characteristics.csv</a></p>
+<p><a href="../data/pre-clean data/Illicit Drug Use 2019-2020 Aged 12 or Older Age Group and Geographic and Socioeconomic Characteristics.csv">Illicit Drug Use 2019-2020 Aged 12 or Older Age Group and Geographic and Socioeconomic Characteristics.csv</a></p>
+
+<p> This table is merged from two orginal datasets I collected from <a href="https://www.samhsa.gov/data/sites/default/files/reports/rpt35323/NSDUHDetailedTabs2020v25/NSDUHDetailedTabs2020v25/NSDUHDetTabsSect1pe2020.htm#tab1-26a">the original dataset.</a> table 1.24A and 1.67A</p>
+<p><strong>Details </strong></p>
+<p>Numbers in Thousands</p>
+<p>1. I merged two tables on demopraghic and geographic & socioeconomic characteristics. Both tables contain data in the time period of 2019-2020, and measures the population that uses illicit drugs in the time period.</p>
+<p>2. I dropped columns: 'Aged 12+','Aged 12+.1','Aged 18+','Aged 18+.1' because these columns are the sum of data of the rest of the dataset. It will skew my data when I start running models. </p>
+<p>3. I dropped rows that either  further in detail in the table. For example, contained no mumeric information or specifically illustarted further in the table. For example, I dropped the data entry of obtaining the sum data about alcohol, and kept subsections.</p>
+<p>4. I replaced row names in order to make the data table more aesthetically pleasing. For example, 'Full-Time' to 'Full-Time Employment'.</p>
+<p>5. I standardized all numeric data type fromobject to floating 64.</p>
+</td>
+
+<!--ROW-1 COL-3-->
+<td>
+<h2><strong>Marijuana Alcohol Nicotine Use 2019-2020 Based On Demographic Characteristics</strong></h2>
+<p><a href="../codes/data cleaning/Marijuana Alcohol Nicotine Use 2019-2020 based on demographic info.ipynb">Click here for original python script.</a></p>
+<p><a href="../data/pre-clean data/Alcohol Use in Past Year- Among People Aged 12 or Older; by Age Group and Demographic Characteristics, Numbers in Thousands, 2019 and 2020.csv">Alcohol Use in Past Year- Among People Aged 12 or Older; by Age Group and Demographic Characteristics, Numbers in Thousands, 2019 and 2020.csv</a></p>
+<p><a href="../data/pre-clean data/Marijuana Use in Past Year- Among People Aged 12 or Older; by Age Group and Demographic Characteristics, Numbers in Thousands, 2019 and 2020.csv">Marijuana Use in Past Year- Among People Aged 12 or Older; by Age Group and Demographic Characteristics, Numbers in Thousands, 2019 and 2020.csv</a></p>
+<p><a href="../data/pre-clean data/Nicotine Vaping in Past Year- Among People Aged 12 or Older; by Age Group and Demographic Characteristics, Numbers in Thousands, 2020.csv">Nicotine Vaping in Past Year- Among People Aged 12 or Older; by Age Group and Demographic Characteristics, Numbers in Thousands, 2020.csv</a></p>
+<p> This table is merged from three orginal datasets I collected from <a href="https://www.samhsa.gov/data/sites/default/files/reports/rpt35323/NSDUHDetailedTabs2020v25/NSDUHDetailedTabs2020v25/NSDUHDetTabsSect2pe2020.htm#tab2-10a">the original dataset.</a> table 2.23A and 2.26A</p>
+<p><strong>Details </strong></p>
+<p>Numbers in Thousands</p>
+<p>1. I dropped columns 2002-2014 because certain drug information were not collected back then.</p>
+<p>2. I dropped rows that either  further in detail in the table. For example, contained no mumeric information or specifically illustarted further in the table. For example, I dropped the data entry of obtaining the sum data about alcohol, and kept subsections.
+<p>3. I deleted coma ',' in the original table in order to unify numeric datatypes.</p>
+<p>4. I changed all captial characters into the uniform standard.</p>
+<p>5. I applied these changes to the other tables.</p>
+</td>
+</tr>
+
+<!--TABLE ROW-1-->
+<tr>
+
+<!--ROW-1 COL-1-->
+<td>
+<h2><strong>Illicit Drug Use 2015-2020 Based On Drug Types</strong></h2>
+<p><a href="../codes/data cleaning/Illicit drug use 2015-2020 based on drug types.ipynb">Click here for original python script.</a></p>
+<p><a href="../data/pre-clean data/Types of Illicit Drug, Tobacco Product, and Alcohol Use in Past Year- Among People Aged 12 to 17; Numbers in Thousands, 2002-2020.csv">Types of Illicit Drug, Tobacco Product, and Alcohol Use in Past Year- Among People Aged 12 to 17; Numbers in Thousands, 2002-2020.csv</a></p>
+<p><a href="../data/pre-clean data/Types of Illicit Drug, Tobacco Product, and Alcohol Use in Past Year- Among People Aged 18 to 25; Numbers in Thousands, 2002-2020.csv">Types of Illicit Drug, Tobacco Product, and Alcohol Use in Past Year- Among People Aged 18 to 25; Numbers in Thousands, 2002-2020.csv</a></p>
+<p><a href="../data/pre-clean data/Types of Illicit Drug, Tobacco Product, and Alcohol Use in Past Year- Among People Aged 26 or Older; Numbers in Thousands, 2002-2020.csv">Types of Illicit Drug, Tobacco Product, and Alcohol Use in Past Year- Among People Aged 26 or Older; Numbers in Thousands, 2002-2020.csv</a></p>
+<p> This table is merged from three orginal datasets I collected from <a href="https://www.samhsa.gov/data/sites/default/files/reports/rpt35323/NSDUHDetailedTabs2020v25/NSDUHDetailedTabs2020v25/NSDUHDetTabsSect7pe2020.htm#tab7-1a">the original dataset.</a> table 7.11A, 7.14A and 7.5A</p>
+<p><strong>Details </strong></p>
+<p>Numbers in Thousands</p>
+<p>1. I dropped columns 2002-2014 because certain drug information were not collected back then.</p>
+<p>2. I dropped rows that either  further in detail in the table. For example, contained no mumeric information or specifically illustarted further in the table. For example, I dropped the data entry of obtaining the sum data about alcohol, and kept subsections.</p>
+<p>3. I deleted coma ',' in the original table in order to unify numeric datatypes.</p>
+<p>4. I changed all captial characters into the uniform standard.</p>
+<p>5. I applied these changes to the other tables.</p>
+</td>
+
+<!--ROW-1 COL-2-->
+<td>
+<h2><strong>Illicit Drug Use 2019-2020 Based On Demographic Characteristics</strong></h2>
+<p><a href="../codes/data cleaning/Illicit drug use 2019-2020 based on demographic info.ipynb">Click here for original python script.</a></p>
+<p><a href="../data/pre-clean data/Illicit Drug Use 2019-2020 Aged 12 or Older Age Group and Demographic Characteristics.csv">Illicit Drug Use 2019-2020 Aged 12 or Older Age Group and Demographic Characteristics.csv</a></p>
+<p><a href="../data/pre-clean data/Illicit Drug Use 2019-2020 Aged 12 or Older Age Group and Geographic and Socioeconomic Characteristics.csv">Illicit Drug Use 2019-2020 Aged 12 or Older Age Group and Geographic and Socioeconomic Characteristics.csv</a></p>
+
+<p> This table is merged from two orginal datasets I collected from <a href="https://www.samhsa.gov/data/sites/default/files/reports/rpt35323/NSDUHDetailedTabs2020v25/NSDUHDetailedTabs2020v25/NSDUHDetTabsSect1pe2020.htm#tab1-26a">the original dataset.</a> table 1.24A and 1.67A</p>
+<p><strong>Details </strong></p>
+<p>Numbers in Thousands</p>
+<p>1. I merged two tables on demopraghic and geographic & socioeconomic characteristics. Both tables contain data in the time period of 2019-2020, and measures the population that uses illicit drugs in the time period.</p>
+<p>2. I dropped columns: 'Aged 12+','Aged 12+.1','Aged 18+','Aged 18+.1' because these columns are the sum of data of the rest of the dataset. It will skew my data when I start running models. </p>
+<p>3. I dropped rows that either  further in detail in the table. For example, contained no mumeric information or specifically illustarted further in the table. For example, I dropped the data entry of obtaining the sum data about alcohol, and kept subsections.</p>
+<p>4. I replaced row names in order to make the data table more aesthetically pleasing. For example, 'Full-Time' to 'Full-Time Employment'.</p>
+<p>5. I standardized all numeric data type fromobject to floating 64.</p>
+</td>
+
+<!--ROW-1 COL-3-->
+<td>
+<h2><strong>Marijuana Alcohol Nicotine Use 2019-2020 Based On Demographic Characteristics</strong></h2>
+<p><a href="../codes/data cleaning/Marijuana Alcohol Nicotine Use 2019-2020 based on demographic info.ipynb">Click here for original python script.</a></p>
+<p><a href="../data/pre-clean data/Alcohol Use in Past Year- Among People Aged 12 or Older; by Age Group and Demographic Characteristics, Numbers in Thousands, 2019 and 2020.csv">Alcohol Use in Past Year- Among People Aged 12 or Older; by Age Group and Demographic Characteristics, Numbers in Thousands, 2019 and 2020.csv</a></p>
+<p><a href="../data/pre-clean data/Marijuana Use in Past Year- Among People Aged 12 or Older; by Age Group and Demographic Characteristics, Numbers in Thousands, 2019 and 2020.csv">Marijuana Use in Past Year- Among People Aged 12 or Older; by Age Group and Demographic Characteristics, Numbers in Thousands, 2019 and 2020.csv</a></p>
+<p><a href="../data/pre-clean data/Nicotine Vaping in Past Year- Among People Aged 12 or Older; by Age Group and Demographic Characteristics, Numbers in Thousands, 2020.csv">Nicotine Vaping in Past Year- Among People Aged 12 or Older; by Age Group and Demographic Characteristics, Numbers in Thousands, 2020.csv</a></p>
+<p> This table is merged from three orginal datasets I collected from <a href="https://www.samhsa.gov/data/sites/default/files/reports/rpt35323/NSDUHDetailedTabs2020v25/NSDUHDetailedTabs2020v25/NSDUHDetTabsSect2pe2020.htm#tab2-10a">the original dataset.</a> table 2.23A and 2.26A</p>
+<p><strong>Details </strong></p>
+<p>Numbers in Thousands</p>
+<p>1. I dropped columns 2002-2014 because certain drug information were not collected back then.</p>
+<p>2. I dropped rows that either  further in detail in the table. For example, contained no mumeric information or specifically illustarted further in the table. For example, I dropped the data entry of obtaining the sum data about alcohol, and kept subsections.
+<p>3. I deleted coma ',' in the original table in order to unify numeric datatypes.</p>
+<p>4. I changed all captial characters into the uniform standard.</p>
+<p>5. I applied these changes to the other tables.</p>
+</td>
+</tr>
 
 
 
