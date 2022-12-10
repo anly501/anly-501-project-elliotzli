@@ -1,0 +1,727 @@
+,Age,Primary streaming service,Hours per day,Anxiety,Depression,Insomnia,OCD,Music effects
+2,18.0,Spotify,4.0,7.0,7.0,10.0,2.0,No effect
+3,61.0,YouTube Music,2.5,9.0,7.0,3.0,3.0,Improve
+4,18.0,Spotify,4.0,7.0,2.0,5.0,9.0,Improve
+5,18.0,Spotify,5.0,8.0,8.0,7.0,7.0,Improve
+6,18.0,YouTube Music,3.0,4.0,8.0,6.0,0.0,Improve
+7,21.0,Spotify,1.0,5.0,3.0,5.0,3.0,Improve
+8,19.0,Spotify,6.0,2.0,0.0,0.0,0.0,Improve
+9,18.0,I do not use a streaming service.,1.0,2.0,2.0,5.0,1.0,Improve
+10,18.0,Spotify,3.0,7.0,7.0,4.0,7.0,No effect
+11,19.0,YouTube Music,8.0,1.0,0.0,0.0,1.0,Improve
+13,19.0,Spotify,2.0,2.0,1.0,2.0,0.0,Improve
+14,18.0,Spotify,4.0,6.0,4.0,7.0,0.0,Improve
+15,17.0,Spotify,2.0,7.0,5.0,4.0,1.0,Worsen
+16,16.0,Spotify,8.0,8.0,8.0,4.0,3.0,Improve
+17,16.0,Spotify,12.0,5.0,7.0,10.0,0.0,Improve
+18,17.0,Spotify,24.0,7.0,5.0,0.0,3.0,Improve
+19,15.0,Spotify,3.0,7.0,3.0,0.0,2.0,Improve
+20,15.0,Apple Music,8.0,6.0,9.0,3.0,0.0,Improve
+21,17.0,Spotify,4.0,10.0,10.0,2.0,4.0,Improve
+22,19.0,I do not use a streaming service.,5.0,6.0,7.0,5.0,4.0,Improve
+23,18.0,Spotify,2.0,3.0,3.0,8.0,6.0,No effect
+24,16.0,Other streaming service,3.0,10.0,6.0,8.0,10.0,Improve
+25,18.0,Spotify,2.0,7.0,4.0,2.0,5.0,Improve
+26,14.0,Spotify,12.0,8.0,6.0,10.0,5.0,Improve
+27,18.0,YouTube Music,6.0,3.0,2.0,1.0,2.0,Improve
+28,17.0,Spotify,2.0,6.0,6.0,4.0,5.0,Improve
+29,17.0,Apple Music,1.0,8.0,2.0,1.0,5.0,Improve
+30,20.0,Apple Music,5.0,7.0,7.0,2.0,0.0,Improve
+31,19.0,Spotify,2.0,4.0,4.0,4.0,3.0,No effect
+32,19.0,Spotify,6.0,9.0,8.0,2.0,3.0,Improve
+33,17.0,Spotify,4.0,5.0,6.0,6.0,1.0,Improve
+34,16.0,Spotify,1.0,0.0,0.0,0.0,0.0,No effect
+35,18.0,Spotify,5.0,3.0,2.0,1.0,1.0,Improve
+36,21.0,Spotify,4.0,6.0,8.0,0.0,2.0,Improve
+37,17.0,Other streaming service,3.0,2.0,0.0,4.0,0.0,No effect
+38,26.0,Other streaming service,0.5,9.0,8.0,1.0,0.0,No effect
+39,20.0,Spotify,4.0,7.0,2.0,8.0,6.0,Improve
+40,23.0,YouTube Music,2.0,4.0,2.0,3.0,4.0,Improve
+41,18.0,Spotify,5.0,7.0,6.0,5.0,0.0,Improve
+42,37.0,YouTube Music,0.25,3.0,2.0,10.0,0.0,No effect
+43,17.0,Spotify,3.0,6.0,6.0,8.0,2.0,Improve
+44,18.0,Spotify,4.0,1.0,0.0,8.0,2.0,No effect
+45,17.0,I do not use a streaming service.,1.0,7.0,3.0,1.0,5.0,Improve
+46,36.0,Spotify,1.0,8.0,9.0,3.0,0.0,No effect
+47,24.0,Spotify,3.0,9.0,6.0,4.0,3.0,Improve
+48,18.0,Spotify,5.0,7.0,9.0,5.0,0.0,Improve
+49,19.0,Spotify,3.0,7.0,4.0,2.0,4.0,No effect
+50,17.0,Apple Music,2.0,0.0,0.0,0.0,0.0,Improve
+51,16.0,Spotify,6.0,7.0,8.0,7.0,5.0,Improve
+52,23.0,Apple Music,1.0,10.0,6.0,3.0,10.0,No effect
+53,23.0,Spotify,12.0,3.0,7.0,5.0,5.0,No effect
+54,22.0,Spotify,4.0,8.0,7.0,4.0,3.0,Improve
+55,16.0,Apple Music,2.0,0.0,0.0,1.0,3.0,Improve
+56,18.0,Spotify,6.0,8.0,6.0,2.0,10.0,No effect
+57,42.0,I do not use a streaming service.,0.0,9.0,0.0,10.0,0.0,No effect
+58,23.0,Spotify,7.0,6.0,4.0,2.0,3.0,Improve
+59,23.0,I do not use a streaming service.,1.0,7.0,0.0,0.0,2.0,Improve
+60,19.0,YouTube Music,1.0,10.0,1.0,0.0,0.0,Improve
+61,22.0,Pandora,1.0,8.0,7.0,0.0,5.0,Improve
+62,15.0,Other streaming service,2.0,3.0,2.0,6.0,7.0,Improve
+63,25.0,Spotify,2.0,5.0,5.0,3.0,1.0,No effect
+64,32.0,Spotify,5.0,10.0,10.0,3.0,1.0,Worsen
+65,36.0,Spotify,6.0,5.0,4.0,10.0,2.0,Improve
+66,24.0,Spotify,3.0,0.0,0.0,8.0,0.0,No effect
+67,29.0,Spotify,4.0,8.0,8.0,5.0,10.0,Improve
+68,41.0,Apple Music,3.0,10.0,7.0,8.0,0.0,Improve
+69,36.0,I do not use a streaming service.,2.0,7.0,3.0,1.0,1.0,Improve
+70,19.0,YouTube Music,3.0,8.0,7.0,4.0,0.0,Improve
+71,31.0,Spotify,2.0,10.0,2.0,0.0,5.0,No effect
+72,16.0,Spotify,4.0,9.0,8.0,1.0,2.0,Improve
+73,26.0,Spotify,2.0,6.0,3.0,1.0,1.0,Improve
+74,22.0,Apple Music,0.5,7.0,7.0,0.0,1.0,No effect
+75,16.0,Spotify,5.0,7.0,7.0,8.0,4.0,Improve
+76,17.0,Spotify,5.0,4.0,1.0,0.0,0.0,Improve
+77,19.0,Spotify,10.0,7.0,2.0,1.0,5.0,Improve
+78,18.0,YouTube Music,2.0,9.0,0.0,5.0,10.0,Improve
+79,18.0,YouTube Music,4.0,2.0,7.0,1.0,1.0,Improve
+80,19.0,Spotify,5.0,10.0,8.0,7.0,0.0,Improve
+81,19.0,Spotify,3.0,3.0,0.0,0.0,0.0,Improve
+82,22.0,Spotify,2.0,7.0,8.0,5.0,1.0,No effect
+83,16.0,Spotify,2.5,2.0,1.0,0.0,0.0,Improve
+84,19.0,Spotify,3.0,5.0,4.0,0.0,1.0,Improve
+85,37.0,Spotify,1.0,9.0,10.0,6.0,10.0,No effect
+86,14.0,Spotify,7.0,2.0,0.0,0.0,0.0,Improve
+87,33.0,I do not use a streaming service.,1.0,5.0,2.0,5.0,1.0,Improve
+88,26.0,Spotify,1.0,3.0,2.0,0.0,0.0,No effect
+89,32.0,Spotify,3.0,2.0,0.0,7.0,0.0,No effect
+90,30.0,Spotify,5.0,7.0,6.0,6.0,2.0,No effect
+91,43.0,I do not use a streaming service.,6.0,5.0,4.0,8.0,3.0,No effect
+92,24.0,Spotify,4.0,4.0,6.0,5.0,3.0,Improve
+93,36.0,YouTube Music,1.0,6.0,2.0,3.0,1.0,Improve
+94,19.0,YouTube Music,4.0,8.0,2.0,1.0,6.0,Improve
+95,22.0,Spotify,10.0,9.0,6.0,0.0,6.0,Improve
+96,20.0,Spotify,3.0,0.0,3.0,7.0,0.0,Improve
+97,31.0,Spotify,2.0,8.0,9.0,6.0,2.0,Improve
+98,19.0,Spotify,4.0,4.0,1.0,1.0,1.0,Improve
+99,15.0,Spotify,8.0,8.0,7.0,5.0,0.0,Improve
+100,18.0,Spotify,2.0,3.0,4.0,6.0,1.0,Improve
+101,25.0,I do not use a streaming service.,0.5,1.0,1.0,3.0,1.0,Improve
+102,17.0,Apple Music,5.0,10.0,8.0,6.0,7.0,No effect
+103,28.0,YouTube Music,1.0,6.0,6.0,2.0,0.0,No effect
+104,20.0,Spotify,3.0,6.0,7.0,0.0,0.0,Improve
+105,21.0,YouTube Music,2.0,8.0,4.0,10.0,0.0,No effect
+106,41.0,Spotify,3.0,9.0,7.0,6.0,2.0,No effect
+107,20.0,Spotify,2.0,7.0,4.0,6.0,5.0,Improve
+108,34.0,Other streaming service,4.0,6.0,7.0,0.0,0.0,No effect
+109,21.0,YouTube Music,3.0,10.0,0.0,10.0,10.0,Improve
+110,23.0,Spotify,2.0,6.0,3.0,0.0,1.0,Improve
+111,16.0,Spotify,3.0,7.0,5.0,5.0,3.0,Improve
+112,19.0,YouTube Music,4.0,7.0,10.0,5.0,0.0,Improve
+113,22.0,Spotify,2.0,8.0,6.0,0.0,0.0,Improve
+114,19.0,Spotify,8.0,4.0,3.0,0.0,0.0,Improve
+115,23.0,Spotify,4.0,7.0,6.0,7.0,5.0,Improve
+116,23.0,Spotify,2.0,7.0,3.0,2.0,3.0,Improve
+117,22.0,Spotify,1.0,2.0,7.0,5.0,0.0,Improve
+118,17.0,Spotify,3.0,7.0,8.0,6.0,5.0,Improve
+119,28.0,Spotify,0.5,4.0,7.0,1.0,0.0,Improve
+120,23.0,Spotify,2.0,7.0,8.0,5.0,1.0,No effect
+121,19.0,Apple Music,3.0,5.0,2.0,8.0,6.0,Improve
+122,17.0,Spotify,2.0,10.0,7.0,4.0,2.0,Improve
+123,21.0,YouTube Music,1.0,6.0,5.0,0.0,0.0,No effect
+124,29.0,Other streaming service,5.0,7.0,2.0,3.0,1.0,Improve
+125,22.0,Spotify,10.0,4.0,7.0,7.0,3.0,Improve
+126,18.0,Spotify,4.0,4.0,5.0,6.0,5.0,Improve
+127,13.0,Spotify,2.0,7.0,10.0,5.0,6.0,Worsen
+128,24.0,Spotify,1.0,6.0,4.0,5.0,0.0,Improve
+129,35.0,Spotify,6.0,4.0,1.0,3.0,1.0,No effect
+130,29.0,YouTube Music,1.0,6.0,6.0,1.0,2.0,Improve
+131,28.0,Spotify,6.0,10.0,8.0,7.0,1.0,Improve
+132,32.0,Spotify,7.0,10.0,8.0,2.0,8.0,Improve
+133,32.0,Other streaming service,1.0,3.0,6.0,2.0,0.0,No effect
+134,21.0,Spotify,3.0,8.0,9.0,2.0,0.0,Improve
+135,18.0,Spotify,2.0,8.0,3.0,8.0,7.0,Improve
+136,19.0,Spotify,3.0,3.0,3.0,1.0,2.0,Improve
+137,18.0,Apple Music,2.0,6.0,5.0,2.0,0.0,Improve
+138,16.0,YouTube Music,3.0,0.0,0.0,4.0,0.0,No effect
+139,25.0,Spotify,1.5,6.0,5.0,0.0,2.0,Improve
+140,17.0,Spotify,4.0,3.0,8.0,0.0,0.0,Improve
+141,16.0,Spotify,2.0,1.0,8.0,0.0,0.0,No effect
+142,27.0,Spotify,10.0,5.0,6.0,6.0,3.0,Improve
+143,53.0,Spotify,7.0,0.0,0.0,0.0,0.0,Improve
+144,25.0,Spotify,1.0,0.0,8.0,0.0,0.0,Improve
+145,34.0,Spotify,2.0,3.0,7.0,0.0,0.0,Improve
+146,22.0,Other streaming service,6.0,8.0,8.0,8.0,5.0,Improve
+147,17.0,Spotify,2.0,5.0,2.0,3.0,4.0,Improve
+148,26.0,Spotify,3.0,8.0,8.0,3.0,0.0,Improve
+149,19.0,Spotify,8.0,6.0,8.0,8.0,0.0,Improve
+150,21.0,Spotify,3.0,6.0,8.0,6.0,0.0,Worsen
+151,32.0,Spotify,3.0,6.0,6.0,7.0,5.0,Improve
+152,21.0,I do not use a streaming service.,3.0,9.0,10.0,3.0,0.0,No effect
+153,25.0,Spotify,2.0,7.0,7.0,5.0,0.0,Improve
+154,26.0,Spotify,1.0,10.0,7.0,2.0,8.0,No effect
+155,21.0,Spotify,2.0,1.0,3.0,0.0,6.0,No effect
+156,17.0,Spotify,2.0,5.0,3.0,2.0,1.0,Improve
+157,28.0,I do not use a streaming service.,4.0,6.0,8.0,1.0,6.0,Improve
+158,41.0,YouTube Music,4.0,7.0,2.0,0.0,7.0,Improve
+159,18.0,Spotify,1.0,6.0,9.0,9.0,0.0,Improve
+160,22.0,Spotify,2.0,1.0,1.0,4.0,1.0,No effect
+162,49.0,Other streaming service,1.0,8.0,8.0,2.0,0.0,Improve
+163,21.0,Spotify,3.0,3.0,3.0,7.0,0.0,No effect
+164,27.0,Spotify,10.0,8.0,8.0,3.0,0.0,Improve
+165,19.0,Spotify,1.0,6.0,4.0,0.0,3.0,No effect
+166,27.0,Spotify,3.0,1.0,0.0,0.0,0.0,Improve
+167,27.0,Spotify,1.5,5.0,5.0,4.0,4.0,Improve
+169,42.0,YouTube Music,2.5,8.0,8.0,7.0,6.0,Improve
+170,60.0,Pandora,2.0,3.0,0.0,2.0,0.0,Improve
+171,19.0,YouTube Music,5.0,0.0,5.0,1.0,0.0,No effect
+172,20.0,Apple Music,2.0,6.0,3.0,0.0,0.0,Improve
+173,28.0,Spotify,2.0,1.0,7.0,5.0,1.0,Improve
+174,16.0,I do not use a streaming service.,2.0,4.0,2.0,1.0,1.0,No effect
+175,18.0,Spotify,2.0,5.0,6.0,0.0,1.0,No effect
+176,34.0,Spotify,1.0,1.0,0.0,0.0,0.0,No effect
+177,18.0,YouTube Music,1.5,8.0,6.0,5.0,2.0,Improve
+178,21.0,Spotify,5.0,9.0,4.0,0.0,3.0,Improve
+179,38.0,Spotify,0.5,4.0,6.0,6.0,4.0,Improve
+180,17.0,Spotify,2.0,7.0,3.0,1.0,5.0,Improve
+181,35.0,Other streaming service,0.5,10.0,3.0,1.0,0.0,No effect
+182,21.0,I do not use a streaming service.,2.0,8.0,8.0,3.0,0.0,Improve
+183,25.0,Apple Music,2.5,7.0,6.0,5.0,4.0,Improve
+184,18.0,Spotify,2.0,7.0,2.0,3.0,5.0,Improve
+185,16.0,Apple Music,2.0,10.0,3.5,5.0,10.0,Improve
+186,19.0,Spotify,1.0,7.0,5.0,1.0,2.0,Improve
+187,31.0,Spotify,4.0,6.0,8.0,9.0,5.0,Improve
+188,26.0,Spotify,5.0,2.0,9.0,2.0,1.0,No effect
+189,16.0,Spotify,2.0,7.0,4.0,10.0,2.0,Improve
+190,26.0,Spotify,2.0,7.0,5.0,6.0,0.0,Improve
+191,17.0,Spotify,2.0,6.0,1.0,0.0,0.0,Improve
+192,22.0,Spotify,1.0,3.0,6.0,1.0,1.0,Improve
+193,20.0,Apple Music,4.0,9.0,10.0,3.0,0.0,Improve
+194,30.0,Spotify,1.0,8.0,5.0,8.0,9.0,Improve
+195,26.0,Other streaming service,4.0,8.0,7.0,7.0,3.0,Improve
+196,19.0,Spotify,5.0,9.0,9.0,9.0,3.0,No effect
+198,33.0,Spotify,7.0,9.0,3.0,7.0,8.0,Improve
+199,28.0,YouTube Music,2.0,10.0,8.0,6.0,2.0,Improve
+200,25.0,Spotify,3.0,9.0,6.0,3.0,0.0,Improve
+201,22.0,YouTube Music,2.0,7.0,7.0,8.0,3.0,Improve
+202,19.0,Spotify,3.0,9.0,10.0,4.0,0.0,Improve
+203,44.0,Other streaming service,3.0,9.0,9.0,8.0,2.0,Improve
+204,22.0,Spotify,3.0,9.0,10.0,3.0,9.0,Improve
+205,26.0,Spotify,5.0,10.0,9.0,8.0,8.0,Improve
+206,23.0,I do not use a streaming service.,6.0,6.0,5.0,6.0,8.0,Improve
+207,17.0,Spotify,2.0,8.0,6.0,10.0,3.0,Improve
+208,42.0,YouTube Music,2.0,8.0,3.0,6.0,4.0,Improve
+209,30.0,Spotify,1.0,4.0,2.0,1.0,3.0,Improve
+210,35.0,Spotify,1.0,2.0,1.0,1.0,1.0,No effect
+211,20.0,Spotify,3.0,10.0,10.0,7.0,3.0,Improve
+212,18.0,Spotify,3.0,8.0,9.0,0.0,0.0,Improve
+213,21.0,Spotify,1.0,4.0,9.0,6.0,2.0,No effect
+214,19.0,Spotify,6.0,4.0,2.0,0.0,0.0,Improve
+215,37.0,Spotify,4.0,9.0,2.0,7.0,7.0,Improve
+216,31.0,Spotify,2.0,8.0,6.0,7.0,5.0,Improve
+217,29.0,Spotify,2.0,6.0,5.0,4.0,2.0,Improve
+218,20.0,Spotify,3.0,8.0,5.0,2.0,3.0,Improve
+219,36.0,I do not use a streaming service.,8.0,7.0,6.0,6.0,1.0,No effect
+220,18.0,Spotify,3.0,10.0,2.0,0.0,0.0,Improve
+221,18.0,Spotify,2.0,6.0,0.0,0.0,0.0,Improve
+222,25.0,Spotify,7.0,2.0,0.0,1.0,0.0,Improve
+223,18.0,YouTube Music,12.0,3.0,7.0,5.0,2.0,Improve
+224,31.0,YouTube Music,9.0,9.0,0.0,2.0,0.0,Improve
+225,17.0,Spotify,2.0,5.0,4.0,1.0,1.0,Improve
+226,21.0,Spotify,1.0,8.0,4.0,0.0,1.0,Improve
+227,30.0,Other streaming service,1.0,8.0,10.0,2.0,0.0,Improve
+228,40.0,Apple Music,2.0,3.0,6.0,2.0,1.0,No effect
+229,64.0,I do not use a streaming service.,4.0,4.0,4.0,2.0,1.0,Improve
+230,14.0,Spotify,2.0,7.0,5.0,2.0,6.0,Improve
+231,26.0,YouTube Music,6.0,3.0,2.0,0.0,0.0,No effect
+232,35.0,Spotify,4.0,9.0,9.0,5.0,1.0,Improve
+233,33.0,Other streaming service,1.0,3.0,10.0,4.0,1.0,No effect
+234,30.0,Spotify,6.0,9.0,0.0,5.0,0.0,No effect
+235,31.0,Spotify,2.0,7.0,6.0,6.0,5.0,Improve
+236,27.0,Spotify,5.0,0.0,9.0,4.0,0.0,Improve
+237,53.0,I do not use a streaming service.,1.5,2.0,2.0,2.0,1.0,No effect
+238,23.0,Spotify,5.0,6.0,9.0,2.0,1.0,Improve
+239,25.0,Spotify,2.0,6.0,4.0,1.0,0.0,Improve
+240,16.0,Apple Music,4.0,8.0,9.0,4.0,0.0,Improve
+241,18.0,Spotify,2.0,6.0,7.0,4.0,3.0,Improve
+242,29.0,Spotify,5.0,7.0,2.0,2.0,0.0,Improve
+243,31.0,YouTube Music,6.0,8.0,6.0,5.0,6.0,No effect
+244,31.0,Spotify,1.0,3.0,10.0,0.0,0.0,Worsen
+245,38.0,Spotify,6.0,9.0,4.0,9.0,7.0,Improve
+246,17.0,Spotify,4.0,7.0,9.0,2.0,8.0,Worsen
+247,25.0,Apple Music,2.0,10.0,3.0,1.0,4.0,Improve
+248,20.0,Spotify,2.0,0.0,0.0,0.0,1.0,No effect
+249,15.0,Spotify,2.0,9.0,6.0,1.0,7.0,No effect
+250,16.0,Spotify,4.0,7.0,1.0,3.0,5.0,Improve
+251,20.0,Spotify,2.0,9.0,7.0,5.0,7.0,Improve
+252,23.0,Other streaming service,6.0,3.0,1.0,2.0,7.0,Improve
+253,22.0,Spotify,3.0,6.0,6.0,8.0,0.0,Improve
+254,15.0,I do not use a streaming service.,5.0,10.0,6.0,0.0,4.0,Improve
+255,17.0,I do not use a streaming service.,0.5,6.0,3.0,1.0,1.0,Improve
+256,22.0,YouTube Music,1.0,3.0,3.0,0.0,7.0,No effect
+257,21.0,Spotify,10.0,9.0,10.0,2.0,2.0,No effect
+258,19.0,Spotify,2.0,7.0,5.0,0.0,2.0,No effect
+259,32.0,Apple Music,0.5,3.0,0.0,4.0,4.0,No effect
+260,34.0,YouTube Music,1.0,9.0,9.0,6.0,4.0,Improve
+261,18.0,I do not use a streaming service.,2.0,5.0,7.0,7.0,2.0,Improve
+262,21.0,Spotify,3.0,0.0,8.0,0.0,5.0,Improve
+263,20.0,Spotify,3.0,8.0,4.0,3.0,4.0,Improve
+264,19.0,Spotify,2.0,7.0,2.0,0.0,7.0,No effect
+265,25.0,I do not use a streaming service.,1.0,9.0,9.0,6.0,9.0,No effect
+266,31.0,Spotify,8.0,5.0,7.0,5.0,4.0,Improve
+267,21.0,Spotify,1.0,5.0,1.0,0.0,0.0,Improve
+268,31.0,YouTube Music,1.0,4.0,1.0,3.0,0.0,Improve
+269,20.0,YouTube Music,1.0,3.0,5.0,3.0,0.0,Improve
+270,19.0,Spotify,5.0,2.0,2.0,0.0,6.0,Improve
+271,19.0,Other streaming service,5.0,0.0,1.0,3.0,5.0,Improve
+272,23.0,Spotify,4.0,7.0,8.0,6.0,2.0,Improve
+273,24.0,I do not use a streaming service.,8.0,6.0,4.0,8.0,8.0,Improve
+274,20.0,Other streaming service,0.7,5.0,6.0,8.0,2.0,Improve
+275,15.0,Spotify,3.0,6.0,6.0,2.0,6.0,No effect
+276,17.0,Spotify,7.0,8.0,9.0,3.0,4.0,Improve
+277,20.0,I do not use a streaming service.,1.5,8.0,4.0,3.0,3.0,Worsen
+278,14.0,Spotify,4.0,8.0,6.0,5.0,7.0,Improve
+279,24.0,Spotify,4.0,8.0,8.0,7.0,7.0,Improve
+280,14.0,Other streaming service,10.0,5.0,2.0,5.0,0.0,Improve
+281,23.0,Spotify,2.0,6.0,8.0,4.0,2.0,No effect
+282,28.0,Apple Music,2.0,7.0,5.0,2.0,1.0,No effect
+283,22.0,Spotify,6.0,8.0,8.0,7.0,1.0,Improve
+284,25.0,Spotify,0.5,10.0,2.0,0.0,0.0,Improve
+285,27.0,Spotify,2.0,8.0,7.0,7.0,5.0,Improve
+286,18.0,Spotify,5.0,8.0,8.0,8.0,6.0,Improve
+287,17.0,Apple Music,3.0,8.0,10.0,9.0,2.0,Improve
+288,23.0,Other streaming service,4.5,6.0,1.0,8.0,4.0,No effect
+289,40.0,Other streaming service,3.0,0.0,4.0,4.0,0.0,Improve
+290,27.0,Spotify,20.0,8.0,10.0,10.0,8.0,No effect
+291,18.0,Spotify,1.0,3.0,2.0,0.0,1.0,No effect
+292,16.0,Spotify,2.5,5.0,3.0,3.0,1.0,Improve
+293,18.0,Spotify,1.0,8.0,9.0,6.0,1.0,Improve
+294,23.0,Spotify,2.0,10.0,3.0,0.0,10.0,No effect
+295,15.0,I do not use a streaming service.,5.0,6.0,7.0,8.0,2.0,Improve
+296,20.0,Apple Music,3.0,7.0,4.0,7.0,0.0,Improve
+297,16.0,Spotify,3.0,9.0,8.0,6.0,2.0,Improve
+298,16.0,Spotify,0.5,8.0,0.0,0.0,0.0,Improve
+299,20.0,Apple Music,8.0,8.0,9.0,2.0,5.0,No effect
+300,33.0,Spotify,2.0,7.0,2.0,3.0,0.0,Improve
+301,22.0,Spotify,3.0,10.0,10.0,4.0,0.0,Improve
+302,21.0,Spotify,3.0,8.0,8.0,3.0,3.0,Improve
+303,21.0,Apple Music,5.0,8.0,7.0,7.0,4.0,Improve
+304,29.0,Apple Music,1.5,8.0,7.0,1.0,2.0,Improve
+305,56.0,I do not use a streaming service.,1.0,6.0,5.0,10.0,2.0,No effect
+306,17.0,Spotify,2.0,7.0,6.0,0.0,4.0,Improve
+307,22.0,Spotify,1.0,7.0,4.0,0.0,0.0,Improve
+308,26.0,Spotify,4.0,8.0,7.0,2.0,10.0,No effect
+309,30.0,Spotify,1.0,4.0,4.0,4.0,0.0,Improve
+310,49.0,Spotify,2.0,0.0,0.0,2.0,0.0,No effect
+311,22.0,Spotify,2.0,6.0,4.0,0.0,1.0,Improve
+312,32.0,Spotify,2.0,4.0,7.0,0.0,0.0,Improve
+313,32.0,I do not use a streaming service.,1.0,8.0,4.0,3.0,0.0,No effect
+314,22.0,YouTube Music,6.0,5.0,5.0,3.0,3.0,Improve
+315,17.0,Spotify,2.0,0.0,8.0,0.0,0.0,Improve
+316,21.0,Spotify,4.0,7.0,4.0,6.0,1.0,Improve
+317,17.0,Spotify,1.5,8.0,7.0,7.0,3.0,No effect
+318,25.0,Spotify,3.0,9.0,8.0,6.0,2.0,Improve
+319,15.0,Spotify,4.0,8.0,6.0,4.0,0.0,Improve
+320,13.0,Spotify,10.0,7.0,2.0,0.0,8.0,Improve
+321,38.0,Spotify,3.0,6.0,7.0,7.0,7.0,No effect
+322,23.0,Apple Music,3.0,7.0,6.0,4.0,2.0,Improve
+323,17.0,Spotify,3.0,1.0,1.0,1.0,0.0,Improve
+324,59.0,YouTube Music,2.0,1.0,1.0,3.0,0.0,Improve
+325,22.0,Spotify,2.0,2.0,7.0,1.0,2.0,Improve
+326,17.0,Apple Music,3.0,6.0,2.0,3.0,1.0,No effect
+327,27.0,Spotify,2.0,7.0,7.0,3.0,2.0,No effect
+328,23.0,Spotify,5.0,8.0,7.0,0.0,3.0,No effect
+329,15.0,Spotify,6.0,8.0,3.0,5.0,2.0,Improve
+330,22.0,Spotify,3.0,5.0,4.0,2.0,0.0,Improve
+331,23.0,Spotify,5.0,7.0,10.0,10.0,1.0,Improve
+332,19.0,Spotify,5.0,7.0,6.0,8.0,4.0,Improve
+333,32.0,Spotify,6.0,8.0,7.0,0.0,9.0,Improve
+334,40.0,Spotify,6.0,10.0,7.0,3.0,3.0,No effect
+335,21.0,Spotify,3.0,6.0,5.0,5.0,3.0,Improve
+336,21.0,Spotify,10.0,8.0,7.0,6.0,8.0,No effect
+337,23.0,Spotify,2.0,10.0,7.0,7.0,3.0,Worsen
+339,35.0,Spotify,3.0,8.0,2.0,2.0,8.0,No effect
+340,18.0,Spotify,1.5,3.0,7.0,4.0,0.0,Improve
+341,21.0,I do not use a streaming service.,10.0,9.0,7.0,5.0,5.0,Improve
+342,22.0,I do not use a streaming service.,2.0,5.0,3.0,0.0,0.0,Improve
+343,23.0,Spotify,3.0,10.0,7.0,0.0,10.0,Improve
+344,13.0,Spotify,2.5,8.0,0.0,0.0,3.0,Improve
+345,19.0,Spotify,3.0,6.0,0.0,3.0,0.0,Improve
+346,33.0,YouTube Music,0.5,7.0,9.0,4.0,6.0,Improve
+347,18.0,Spotify,16.0,3.0,2.0,5.0,6.0,Improve
+348,17.0,YouTube Music,6.0,4.0,2.0,0.0,0.0,Improve
+349,16.0,Spotify,3.0,4.0,2.0,0.0,0.0,Improve
+350,18.0,YouTube Music,0.5,5.0,3.0,1.0,0.0,No effect
+351,19.0,Spotify,5.0,4.0,2.0,2.0,1.0,Improve
+352,15.0,YouTube Music,2.0,4.0,0.0,6.0,5.0,No effect
+353,17.0,Spotify,2.0,7.0,6.0,3.0,1.0,Improve
+354,25.0,Spotify,2.0,7.0,8.0,6.0,2.0,Improve
+355,24.0,Other streaming service,1.5,3.0,4.0,1.0,1.0,Improve
+356,23.0,Spotify,1.0,9.0,7.0,2.0,1.0,Improve
+357,16.0,Spotify,10.0,10.0,9.0,3.0,2.0,Improve
+358,25.0,YouTube Music,2.0,9.0,9.0,7.0,3.0,Improve
+359,16.0,Spotify,15.0,8.0,10.0,9.0,2.0,Improve
+360,20.0,I do not use a streaming service.,0.5,8.0,9.0,6.0,4.0,Improve
+361,17.0,Spotify,3.0,5.0,6.0,9.0,9.0,Improve
+362,29.0,I do not use a streaming service.,2.0,9.0,3.0,7.0,2.0,Improve
+363,20.0,Spotify,4.0,3.0,2.0,1.0,6.0,Improve
+364,16.0,Spotify,2.0,7.0,7.0,4.0,0.0,Improve
+365,21.0,Spotify,1.0,7.0,9.0,1.0,2.0,Improve
+366,16.0,Spotify,24.0,5.0,1.0,9.0,1.0,Improve
+367,43.0,Spotify,1.0,3.0,3.0,0.0,0.0,Improve
+368,32.0,Pandora,2.0,8.0,7.0,5.0,4.0,Improve
+369,10.0,YouTube Music,2.0,8.0,2.0,1.0,1.0,Improve
+370,27.0,Spotify,3.0,4.0,0.0,0.0,0.0,Improve
+371,24.0,Spotify,3.0,9.0,6.0,1.0,1.0,Improve
+372,18.0,Spotify,2.0,10.0,7.0,2.0,0.0,Improve
+373,17.0,Apple Music,7.0,8.0,7.0,7.0,4.0,Improve
+374,19.0,Spotify,6.0,1.0,0.0,0.0,0.0,Improve
+375,16.0,YouTube Music,3.0,5.0,7.0,1.0,4.0,Improve
+376,64.0,Other streaming service,5.0,7.0,6.0,9.0,2.0,Improve
+377,33.0,Apple Music,4.0,8.0,8.0,2.0,2.0,Improve
+378,32.0,I do not use a streaming service.,3.0,2.0,2.0,8.0,0.0,No effect
+379,15.0,Pandora,2.0,6.0,0.0,0.0,2.0,Improve
+380,27.0,YouTube Music,3.0,2.0,0.0,1.0,0.0,Improve
+381,20.0,I do not use a streaming service.,2.0,6.0,2.0,6.0,7.0,No effect
+382,23.0,I do not use a streaming service.,2.0,6.0,1.0,0.0,5.0,Improve
+383,19.0,Apple Music,3.0,7.0,6.0,4.0,0.0,Improve
+384,12.0,YouTube Music,2.0,0.0,0.0,3.0,0.0,Improve
+385,16.0,Other streaming service,3.0,9.0,7.0,10.0,6.0,No effect
+386,17.0,Other streaming service,0.0,10.0,0.0,0.0,0.0,No effect
+387,14.0,Spotify,1.0,6.0,6.0,3.0,0.0,Improve
+388,32.0,Spotify,2.0,4.0,3.0,1.0,6.0,Improve
+389,20.0,Spotify,2.0,6.0,2.0,2.0,1.0,No effect
+390,54.0,I do not use a streaming service.,6.0,2.0,2.0,3.0,2.0,Improve
+391,18.0,Spotify,5.0,7.0,4.0,5.0,6.0,Improve
+392,14.0,Spotify,2.0,7.0,5.0,3.0,2.0,Improve
+393,13.0,Other streaming service,4.0,8.0,5.0,10.0,3.0,Improve
+394,19.0,Apple Music,8.0,7.0,5.0,6.0,5.0,Improve
+395,14.0,Spotify,4.0,6.0,8.0,8.0,2.0,Improve
+396,14.0,YouTube Music,1.5,1.0,2.0,4.0,3.0,Improve
+397,18.0,Apple Music,2.0,3.0,2.0,0.0,2.0,Improve
+398,15.0,Spotify,5.0,6.0,7.0,7.0,4.0,Improve
+399,24.0,YouTube Music,6.0,6.0,7.0,2.0,0.0,No effect
+400,17.0,Apple Music,2.0,9.0,8.0,4.0,8.0,Improve
+401,44.0,Spotify,2.0,7.0,7.0,2.0,1.0,Improve
+402,23.0,Spotify,1.0,1.0,0.0,1.0,0.0,Improve
+403,21.0,Apple Music,1.0,4.0,3.0,4.0,5.0,Improve
+404,57.0,Other streaming service,2.0,2.0,0.0,0.0,0.0,Improve
+405,23.0,Spotify,2.0,0.0,5.0,7.0,0.0,No effect
+406,18.0,Spotify,1.0,8.0,7.0,7.0,0.0,Improve
+407,26.0,Spotify,14.0,5.0,10.0,8.0,0.0,No effect
+408,13.0,YouTube Music,3.0,8.0,7.0,9.0,2.0,Improve
+409,15.0,Spotify,3.0,9.0,6.0,8.0,5.0,Improve
+410,57.0,YouTube Music,2.0,2.0,2.0,7.0,0.0,No effect
+411,12.0,Spotify,0.5,7.0,8.0,6.0,2.0,Improve
+412,26.0,Spotify,6.0,10.0,10.0,8.0,2.0,No effect
+413,17.0,Spotify,1.0,8.0,5.0,2.0,3.0,Improve
+414,17.0,Spotify,2.0,7.0,8.0,2.0,5.0,Improve
+415,69.0,Pandora,4.0,1.0,1.0,2.0,0.0,Improve
+416,17.0,Spotify,3.0,9.0,10.0,10.0,3.0,No effect
+417,32.0,Spotify,12.0,9.0,4.0,4.0,4.0,Improve
+418,22.0,YouTube Music,3.0,8.0,2.0,4.0,0.0,No effect
+419,38.0,Spotify,1.0,1.0,1.0,5.0,1.0,Improve
+420,18.0,YouTube Music,10.0,10.0,9.0,9.0,8.0,Improve
+421,14.0,Spotify,5.0,3.0,0.0,2.0,3.0,Improve
+422,14.0,Other streaming service,0.5,4.0,0.0,4.0,0.0,Improve
+423,19.0,Spotify,5.0,2.0,3.0,5.0,2.0,Improve
+424,20.0,YouTube Music,3.0,2.0,3.0,3.0,0.0,Improve
+425,18.0,Spotify,2.0,8.0,4.0,3.0,0.0,Improve
+426,30.0,Spotify,13.0,10.0,10.0,10.0,7.0,Improve
+427,31.0,I do not use a streaming service.,4.0,8.0,8.0,9.0,3.0,Improve
+428,72.0,Spotify,6.0,0.0,1.0,0.0,2.0,Improve
+429,73.0,Pandora,3.0,5.0,4.0,0.0,1.0,Improve
+430,16.0,Spotify,4.0,7.5,5.0,7.0,8.5,Improve
+431,19.0,YouTube Music,3.0,3.0,3.0,0.0,0.0,Improve
+432,16.0,Spotify,2.0,7.0,5.0,3.0,1.0,Improve
+433,12.0,Spotify,2.0,8.0,0.0,1.0,6.0,Improve
+434,39.0,Spotify,1.0,6.0,4.0,1.0,1.0,Improve
+435,15.0,Spotify,6.0,8.0,8.0,7.0,10.0,No effect
+436,14.0,Spotify,9.0,10.0,8.0,9.0,5.0,Improve
+437,21.0,Spotify,1.0,3.0,0.0,2.0,0.0,Improve
+438,38.0,Apple Music,1.0,5.0,5.0,7.0,1.0,Worsen
+439,23.0,Spotify,0.5,7.0,7.0,6.0,5.0,Improve
+440,16.0,Other streaming service,1.0,7.0,4.0,6.0,3.0,Improve
+442,13.0,Spotify,6.0,4.0,0.0,0.0,2.0,Worsen
+443,16.0,Spotify,4.0,3.0,0.0,6.0,9.0,Improve
+444,18.0,Spotify,6.0,5.0,1.0,6.0,0.0,Improve
+445,21.0,Spotify,4.0,10.0,6.0,8.0,0.0,Improve
+446,17.0,Spotify,1.5,7.0,5.0,1.0,2.0,No effect
+447,24.0,Apple Music,2.0,7.0,7.0,0.0,4.0,No effect
+448,14.0,Apple Music,2.0,6.0,0.0,0.0,0.0,Improve
+449,25.0,Spotify,4.0,6.0,2.0,3.0,2.0,Improve
+450,22.0,Spotify,3.0,7.0,6.0,7.0,9.0,Improve
+451,20.0,I do not use a streaming service.,4.0,5.0,7.0,7.0,0.0,No effect
+452,23.0,Spotify,2.0,7.0,6.0,4.0,3.0,Improve
+453,61.0,Pandora,2.0,2.0,2.0,2.0,0.0,Improve
+454,24.0,Spotify,6.0,9.0,5.0,0.0,7.0,Improve
+455,34.0,Spotify,0.0,3.0,7.0,8.0,0.0,Worsen
+456,49.0,Spotify,1.0,4.0,5.0,9.0,1.0,Improve
+457,33.0,I do not use a streaming service.,4.0,1.0,0.0,7.0,0.0,Improve
+458,22.0,I do not use a streaming service.,2.0,3.0,2.0,0.0,2.0,No effect
+459,38.0,Spotify,3.0,1.0,6.0,1.0,2.0,Improve
+460,23.0,YouTube Music,4.0,8.0,10.0,4.0,0.0,No effect
+461,34.0,I do not use a streaming service.,2.0,8.0,10.0,10.0,0.0,No effect
+462,40.0,Other streaming service,3.0,3.0,0.0,8.0,1.0,No effect
+463,27.0,Spotify,1.0,3.0,4.0,1.0,0.0,Improve
+464,54.0,YouTube Music,10.0,2.0,1.0,2.0,2.0,Improve
+465,16.0,Spotify,10.0,0.0,0.0,0.0,0.0,No effect
+466,23.0,I do not use a streaming service.,10.0,8.0,8.0,5.0,0.0,Improve
+467,35.0,Spotify,4.0,1.0,1.0,1.0,0.0,No effect
+468,22.0,YouTube Music,4.0,8.0,7.0,6.0,2.0,Improve
+469,41.0,Spotify,3.0,6.0,5.0,4.0,0.0,No effect
+470,63.0,Spotify,2.0,5.0,4.0,6.0,2.0,Improve
+471,28.0,Spotify,1.0,3.0,1.0,0.0,2.0,No effect
+472,22.0,Spotify,6.0,4.0,8.0,2.0,2.0,Improve
+473,58.0,YouTube Music,1.0,5.0,6.0,3.0,1.0,Improve
+474,58.0,YouTube Music,1.0,0.0,0.0,2.0,1.0,Improve
+475,67.0,Other streaming service,4.0,7.0,6.0,7.0,4.0,Improve
+476,70.0,I do not use a streaming service.,2.0,8.0,5.0,6.0,1.0,Improve
+477,60.0,YouTube Music,2.0,4.0,4.0,2.0,0.0,Improve
+478,15.0,Spotify,2.0,9.0,8.0,10.0,9.0,Improve
+479,18.0,YouTube Music,6.0,5.0,5.0,7.0,0.0,Improve
+480,58.0,Other streaming service,3.0,4.0,6.0,8.0,1.0,Improve
+481,28.0,Other streaming service,1.0,4.0,8.0,5.0,0.0,Improve
+482,22.0,Spotify,4.0,9.0,10.0,6.0,7.0,Improve
+483,49.0,YouTube Music,0.5,3.0,2.0,2.0,2.0,Improve
+484,20.0,YouTube Music,8.0,6.0,2.0,2.0,1.0,Improve
+485,55.0,YouTube Music,15.0,2.0,0.0,3.0,0.0,No effect
+486,48.0,Spotify,1.5,10.0,8.0,0.0,4.0,Improve
+487,14.0,Spotify,2.0,4.0,4.0,2.0,2.0,Improve
+488,18.0,Spotify,3.0,7.0,8.0,6.0,2.0,Improve
+489,25.0,Spotify,1.0,7.0,6.0,5.0,5.0,Improve
+490,71.0,I do not use a streaming service.,0.25,1.0,0.0,0.0,0.0,Improve
+491,60.0,YouTube Music,1.0,6.0,2.0,8.0,0.0,Improve
+492,18.0,I do not use a streaming service.,1.0,4.0,5.0,7.0,0.0,No effect
+493,19.0,Spotify,5.0,10.0,7.0,0.0,0.0,Improve
+494,74.0,I do not use a streaming service.,1.0,4.0,2.0,1.0,0.0,Improve
+495,36.0,Pandora,1.0,7.0,6.0,2.0,3.0,Improve
+496,14.0,Spotify,7.0,3.0,2.0,8.0,0.0,Improve
+497,20.0,Spotify,3.0,10.0,7.0,4.0,3.0,Improve
+498,15.0,Spotify,3.0,4.0,0.0,0.0,0.0,No effect
+499,19.0,I do not use a streaming service.,7.0,7.0,7.0,0.0,0.0,Improve
+500,29.0,Spotify,8.0,6.0,7.0,4.0,1.0,Improve
+501,24.0,Spotify,2.0,7.0,6.0,2.0,7.0,Improve
+502,18.0,Apple Music,2.0,6.0,5.0,8.0,0.0,Improve
+503,21.0,Spotify,2.0,10.0,10.0,2.0,3.0,Improve
+504,19.0,Spotify,2.0,7.0,6.0,5.0,1.0,Improve
+505,25.0,Spotify,4.0,3.0,0.0,0.0,0.0,Improve
+506,28.0,Spotify,8.0,8.0,2.0,1.0,0.0,No effect
+507,27.0,Other streaming service,4.0,7.0,6.0,6.0,5.0,Improve
+508,60.0,Spotify,1.0,3.0,2.0,5.0,0.0,No effect
+509,25.0,YouTube Music,5.0,8.0,2.0,1.0,0.0,Improve
+510,60.0,Other streaming service,2.0,7.0,7.0,2.0,4.0,Improve
+511,43.0,Other streaming service,1.0,5.0,1.0,1.0,1.0,Improve
+512,51.0,I do not use a streaming service.,5.0,1.0,2.0,1.0,0.0,No effect
+513,63.0,YouTube Music,8.0,2.0,1.0,2.0,2.0,Improve
+514,64.0,YouTube Music,2.0,5.0,2.0,4.0,0.0,Improve
+515,22.0,Spotify,2.0,7.0,2.0,1.0,0.0,Improve
+516,24.0,YouTube Music,1.0,10.0,10.0,7.0,8.0,Improve
+517,19.0,Spotify,8.0,7.0,2.0,1.0,6.0,Improve
+518,56.0,Apple Music,8.0,6.0,4.0,1.0,0.0,Improve
+519,20.0,Spotify,1.0,5.0,9.0,6.0,1.0,Improve
+520,19.0,I do not use a streaming service.,1.0,7.0,5.0,7.0,0.0,Improve
+521,20.0,Spotify,8.0,7.0,6.0,7.0,4.0,Improve
+522,60.0,Spotify,2.0,0.0,0.0,0.0,0.0,Improve
+523,65.0,Apple Music,6.0,3.0,5.0,0.0,2.0,No effect
+524,28.0,Spotify,3.0,8.0,8.0,5.0,2.0,Improve
+525,18.0,I do not use a streaming service.,4.0,8.0,7.0,10.0,6.0,Improve
+526,42.0,Spotify,2.0,2.0,4.0,5.0,2.0,Improve
+527,80.0,I do not use a streaming service.,3.0,7.0,3.0,9.0,2.0,Improve
+528,22.0,I do not use a streaming service.,4.0,8.0,7.0,4.0,4.0,Improve
+529,56.0,Other streaming service,2.0,0.0,0.0,0.0,5.0,No effect
+530,20.0,YouTube Music,1.0,8.0,6.0,9.0,8.0,Improve
+531,15.0,Spotify,1.0,4.0,2.0,3.0,2.0,Improve
+533,57.0,Spotify,2.0,6.0,4.0,10.0,0.0,Improve
+534,22.0,Apple Music,7.0,8.0,8.0,10.0,0.0,Improve
+535,17.0,Spotify,5.0,5.0,5.0,5.0,5.0,Improve
+536,19.0,Spotify,3.0,10.0,8.0,6.0,2.0,No effect
+537,50.0,I do not use a streaming service.,1.0,0.0,0.0,7.0,0.0,Improve
+538,24.0,Spotify,6.0,8.0,8.0,10.0,0.0,Improve
+539,67.0,Apple Music,2.0,8.0,2.0,0.0,0.0,No effect
+540,18.0,Other streaming service,3.0,7.0,8.0,4.0,10.0,Improve
+541,20.0,Spotify,1.5,0.0,2.0,0.0,1.0,Improve
+542,15.0,Spotify,4.0,3.0,5.0,4.0,0.0,Improve
+543,17.0,Spotify,2.0,5.0,2.0,3.0,1.0,Improve
+544,32.0,YouTube Music,2.0,6.0,1.0,0.0,0.0,Improve
+545,18.0,Spotify,2.0,6.0,3.0,4.0,2.0,Improve
+546,18.0,Spotify,1.0,5.0,6.0,8.0,2.0,Improve
+547,18.0,Spotify,3.0,8.0,4.0,7.0,5.0,Improve
+548,19.0,Spotify,3.0,1.0,1.0,2.0,3.0,Improve
+549,18.0,Spotify,2.0,8.0,3.0,1.0,3.0,Improve
+550,17.0,Other streaming service,6.0,3.0,3.0,0.0,0.0,Improve
+551,34.0,Spotify,3.0,0.0,0.0,0.0,0.0,No effect
+552,18.0,YouTube Music,3.0,5.0,4.0,2.0,0.0,No effect
+553,18.0,Spotify,2.0,2.0,4.0,0.0,0.0,Improve
+554,22.0,I do not use a streaming service.,2.0,4.0,6.0,0.0,2.0,Improve
+555,18.0,Spotify,2.0,5.0,7.0,2.0,0.0,Improve
+556,19.0,Spotify,3.0,4.0,0.0,7.0,0.0,No effect
+557,25.0,I do not use a streaming service.,4.0,10.0,8.0,6.0,2.0,No effect
+558,17.0,Spotify,2.0,3.0,3.0,1.0,0.0,Improve
+559,25.0,Spotify,5.0,8.0,7.0,2.0,1.0,Improve
+560,18.0,Spotify,2.0,3.0,3.0,0.0,3.0,Improve
+562,24.0,Spotify,7.0,10.0,10.0,8.0,10.0,Improve
+563,16.0,Spotify,3.0,10.0,2.0,7.0,8.0,Improve
+564,18.0,Spotify,3.0,9.0,6.0,8.0,5.0,Improve
+565,18.0,Spotify,4.0,6.0,4.0,1.0,6.0,Improve
+566,16.0,Spotify,3.0,3.0,4.0,6.0,8.0,Improve
+567,68.0,Pandora,1.0,10.0,10.0,10.0,0.0,Improve
+568,16.0,Spotify,7.0,4.0,8.0,8.0,4.0,No effect
+569,21.0,Spotify,1.0,3.0,0.0,0.0,0.0,Improve
+570,53.0,Pandora,4.0,1.0,0.0,0.0,0.0,Improve
+571,29.0,Spotify,4.0,5.0,6.0,7.0,7.0,No effect
+572,18.0,Spotify,3.0,7.0,0.0,3.0,1.0,No effect
+573,29.0,Spotify,2.0,10.0,8.0,8.0,9.0,Improve
+574,18.0,Spotify,4.0,3.0,0.0,3.0,4.0,Improve
+575,22.0,Spotify,5.0,1.0,0.0,0.0,1.0,No effect
+576,19.0,Other streaming service,6.0,6.0,6.0,0.0,0.0,Improve
+577,13.0,YouTube Music,1.0,4.0,3.0,4.0,0.0,Improve
+578,26.0,I do not use a streaming service.,1.0,6.0,4.0,0.0,0.0,Improve
+579,14.0,Spotify,3.0,2.0,6.0,3.0,0.0,Worsen
+580,27.0,Spotify,1.0,8.0,3.0,3.0,3.0,Improve
+581,26.0,Spotify,8.0,8.0,10.0,7.0,3.0,No effect
+582,59.0,Other streaming service,1.0,1.0,0.0,0.0,1.0,Improve
+583,30.0,Spotify,8.0,8.0,6.0,6.0,8.0,Improve
+584,27.0,Spotify,1.0,6.0,3.0,1.0,7.0,Improve
+585,18.0,Apple Music,1.0,2.0,0.0,3.0,0.0,Improve
+586,23.0,I do not use a streaming service.,10.0,0.0,0.0,0.0,0.0,No effect
+587,18.0,Spotify,10.0,10.0,10.0,6.0,6.0,Improve
+588,40.0,Spotify,5.0,3.0,0.0,0.0,1.0,Improve
+589,24.0,Spotify,10.0,7.0,9.0,10.0,0.0,Improve
+590,23.0,Spotify,2.0,8.0,7.0,6.0,2.0,Improve
+591,56.0,Other streaming service,6.0,2.0,0.0,10.0,10.0,Improve
+592,29.0,Other streaming service,2.0,10.0,7.0,9.0,3.0,No effect
+593,16.0,Other streaming service,3.0,6.0,0.0,0.0,0.0,Improve
+594,18.0,Spotify,8.0,3.0,0.0,2.0,2.0,Improve
+595,21.0,Spotify,8.0,6.0,5.0,9.0,8.0,Improve
+596,32.0,Spotify,8.0,7.0,6.0,5.0,8.0,Improve
+597,22.0,YouTube Music,8.0,10.0,7.0,8.0,6.0,Improve
+598,17.0,Spotify,12.0,0.0,3.0,9.0,5.0,No effect
+599,18.0,Spotify,6.0,0.0,2.0,1.0,5.0,Improve
+600,18.0,Spotify,4.0,2.0,0.0,0.0,0.0,No effect
+601,24.0,Spotify,8.0,2.0,2.0,4.0,0.0,No effect
+602,21.0,Spotify,2.0,5.0,6.0,3.0,4.0,No effect
+603,46.0,I do not use a streaming service.,1.0,0.0,0.0,1.0,0.0,No effect
+604,18.0,Spotify,2.0,5.0,4.0,3.0,7.0,Improve
+605,16.0,Spotify,3.0,2.0,7.0,0.0,0.0,Improve
+606,21.0,Spotify,1.0,0.0,6.0,0.0,4.0,Improve
+607,19.0,I do not use a streaming service.,0.0,0.0,0.0,0.0,0.0,Improve
+608,20.0,Spotify,2.0,7.0,5.0,1.0,3.0,Improve
+609,21.0,Other streaming service,0.1,7.0,5.0,3.0,1.0,No effect
+610,56.0,I do not use a streaming service.,2.0,3.0,3.0,1.0,8.0,No effect
+611,21.0,Spotify,12.0,7.0,10.0,4.0,7.0,Worsen
+612,20.0,Spotify,1.0,3.0,2.0,3.0,0.0,Improve
+613,21.0,Apple Music,1.0,5.0,1.0,1.0,9.0,Improve
+614,25.0,Spotify,3.0,8.0,9.0,4.0,10.0,Improve
+615,33.0,Spotify,2.0,4.0,8.0,0.0,0.0,Improve
+616,20.0,Spotify,2.0,7.0,9.0,7.0,0.0,Improve
+617,17.0,Spotify,3.0,1.0,5.0,6.0,4.0,No effect
+618,24.0,YouTube Music,1.0,3.0,2.0,1.0,0.0,No effect
+619,26.0,Spotify,3.0,6.0,8.0,0.0,0.0,Improve
+620,17.0,YouTube Music,3.0,6.0,3.0,6.0,0.0,Improve
+621,16.0,Spotify,5.0,7.0,4.0,8.0,0.0,Improve
+622,27.0,Spotify,8.0,2.0,6.0,9.0,1.0,No effect
+623,28.0,Spotify,4.0,8.0,5.0,3.0,8.0,Improve
+624,48.0,I do not use a streaming service.,5.0,3.0,3.0,0.0,0.0,Improve
+625,19.0,Spotify,3.0,7.0,5.0,3.0,3.0,Improve
+626,21.0,YouTube Music,4.0,4.0,8.0,2.0,3.0,Improve
+627,21.0,I do not use a streaming service.,1.0,3.0,0.0,0.0,5.0,Improve
+628,15.0,Spotify,4.0,10.0,7.0,3.0,2.0,Improve
+629,20.0,Spotify,1.0,10.0,4.0,8.0,0.0,Improve
+630,21.0,YouTube Music,2.0,2.0,2.0,0.0,0.0,Improve
+631,22.0,Spotify,6.0,8.0,7.0,7.0,3.0,Improve
+632,22.0,Spotify,2.0,10.0,5.0,2.0,8.0,Improve
+633,31.0,Spotify,1.0,9.0,10.0,10.0,6.0,No effect
+634,20.0,YouTube Music,4.0,5.0,2.0,1.0,6.0,Improve
+635,49.0,I do not use a streaming service.,8.0,4.0,8.0,9.0,1.0,Improve
+636,42.0,Spotify,2.0,7.0,8.0,5.0,3.0,Improve
+637,26.0,Spotify,2.0,2.0,2.0,0.0,3.0,No effect
+638,17.0,Spotify,10.0,10.0,3.0,0.0,4.0,Improve
+639,30.0,I do not use a streaming service.,0.0,10.0,10.0,10.0,9.0,Improve
+640,23.0,Spotify,6.0,3.0,7.0,7.0,4.0,No effect
+641,30.0,Apple Music,3.0,7.0,5.0,7.0,7.0,Improve
+642,31.0,Spotify,2.0,7.0,4.0,8.0,8.0,Improve
+643,42.0,Other streaming service,0.25,7.0,9.0,4.0,5.0,Improve
+644,16.0,Other streaming service,4.0,4.0,7.0,1.0,3.0,Improve
+645,34.0,YouTube Music,2.0,5.0,9.0,9.0,6.0,Improve
+646,21.0,YouTube Music,2.0,5.0,4.0,10.0,7.0,No effect
+647,27.0,YouTube Music,3.0,7.0,2.0,0.0,1.0,Improve
+648,18.0,Spotify,6.0,8.0,6.0,0.0,2.0,Improve
+649,26.0,Spotify,3.0,1.0,3.0,10.0,0.0,No effect
+650,37.0,Spotify,2.0,8.0,10.0,10.0,2.0,Worsen
+651,26.0,Spotify,5.0,4.0,7.0,6.0,0.0,No effect
+652,19.0,Spotify,4.0,9.0,6.0,3.0,0.0,No effect
+653,22.0,Spotify,4.0,10.0,7.0,4.0,4.0,Improve
+654,43.0,I do not use a streaming service.,0.0,1.0,2.0,2.0,0.0,No effect
+655,24.0,I do not use a streaming service.,12.0,7.0,10.0,0.0,8.0,Improve
+656,21.0,I do not use a streaming service.,0.5,10.0,2.0,1.0,10.0,Worsen
+657,28.0,I do not use a streaming service.,1.0,2.0,1.0,2.0,2.0,Improve
+658,23.0,YouTube Music,3.0,3.0,10.0,0.0,0.0,No effect
+659,20.0,Apple Music,12.0,7.0,10.0,2.0,0.0,Improve
+660,17.0,Spotify,4.0,4.0,2.0,0.0,0.0,Improve
+661,19.0,Spotify,3.0,4.0,2.0,5.0,3.0,Improve
+662,32.0,Spotify,1.0,6.0,8.0,7.0,0.0,Improve
+663,18.0,YouTube Music,4.0,8.0,6.0,4.0,0.0,Improve
+664,20.0,Other streaming service,2.0,2.0,2.0,0.0,0.0,No effect
+665,27.0,Spotify,3.0,8.0,7.0,9.0,3.0,Improve
+666,15.0,Spotify,3.0,4.0,3.0,5.0,0.0,No effect
+667,26.0,Spotify,1.0,6.0,1.0,0.0,4.0,No effect
+668,24.0,Spotify,2.0,6.0,6.0,3.0,6.0,Improve
+669,20.0,Spotify,1.0,8.0,7.0,1.0,1.0,No effect
+670,21.0,YouTube Music,0.5,5.0,3.0,4.0,1.0,Improve
+671,16.0,Spotify,2.0,6.0,2.0,4.0,3.0,Improve
+672,21.0,Spotify,11.0,5.0,6.0,6.0,0.0,Improve
+673,27.0,Spotify,10.0,6.0,10.0,8.0,1.0,Improve
+674,17.0,Spotify,5.0,7.0,3.0,9.0,7.0,Improve
+675,21.0,Spotify,1.5,4.0,6.0,0.0,0.0,No effect
+676,17.0,Spotify,2.0,9.0,4.0,0.0,1.0,Improve
+677,21.0,Spotify,3.0,9.0,7.0,7.0,5.0,Improve
+678,17.0,YouTube Music,2.0,5.0,10.0,2.0,7.0,No effect
+679,36.0,YouTube Music,3.0,1.0,0.0,1.0,0.0,Improve
+680,18.0,Spotify,4.0,8.0,7.0,2.0,6.0,Improve
+681,18.0,Spotify,1.0,5.0,1.0,4.0,0.0,Improve
+682,18.0,Apple Music,5.0,10.0,6.0,0.0,0.0,Improve
+683,18.0,Apple Music,2.0,7.0,5.0,5.0,5.0,Improve
+684,18.0,Spotify,7.0,3.0,1.0,0.0,3.0,Improve
+685,18.0,Spotify,2.0,5.0,8.0,7.0,4.0,Improve
+686,18.0,I do not use a streaming service.,1.0,2.0,0.0,0.0,5.0,No effect
+687,18.0,I do not use a streaming service.,1.0,7.0,0.0,0.0,0.0,No effect
+688,18.0,Spotify,4.0,8.0,0.0,0.0,2.0,No effect
+689,20.0,Spotify,6.0,4.0,1.0,1.0,0.0,Improve
+690,19.0,Spotify,3.0,3.0,8.0,0.0,2.0,Improve
+691,17.0,Spotify,4.0,7.0,0.0,2.0,2.0,Improve
+692,23.0,Spotify,4.0,10.0,8.0,10.0,0.0,Improve
+693,18.0,YouTube Music,1.0,7.0,1.0,1.0,1.0,Improve
+694,19.0,Spotify,2.0,5.0,9.0,1.0,7.0,No effect
+695,89.0,Spotify,24.0,0.0,0.0,0.0,0.0,No effect
+696,20.0,Spotify,5.0,10.0,6.0,3.0,8.0,Improve
+697,16.0,Spotify,3.0,7.0,3.5,3.5,5.5,Improve
+698,17.0,Spotify,4.0,2.0,0.0,0.0,2.0,Improve
+699,16.0,Spotify,9.0,10.0,10.0,10.0,8.0,Improve
+700,20.0,YouTube Music,1.0,8.0,9.0,6.0,5.0,Worsen
+701,30.0,YouTube Music,1.0,9.0,7.0,8.0,4.0,Improve
+702,37.0,Spotify,2.0,6.0,4.0,5.0,0.0,Improve
+703,44.0,YouTube Music,1.5,8.0,5.0,9.0,4.0,Improve
+704,21.0,Spotify,2.0,3.0,7.0,0.0,0.0,Improve
+705,19.0,Spotify,4.0,9.0,1.0,0.0,9.0,Improve
+706,23.0,Spotify,1.0,8.0,6.0,1.0,4.0,Improve
+707,26.0,Spotify,1.0,4.0,1.0,1.0,6.0,Improve
+708,18.0,Spotify,3.0,6.0,5.0,3.0,1.0,No effect
+709,35.0,Spotify,4.0,7.0,8.0,6.0,5.0,Improve
+710,16.0,Spotify,8.0,8.0,9.0,5.0,10.0,Improve
+711,19.0,Spotify,5.0,8.0,6.0,7.0,0.0,Improve
+712,23.0,I do not use a streaming service.,3.0,10.0,5.0,2.0,0.0,Improve
+713,17.0,YouTube Music,8.0,5.0,2.0,4.0,7.0,No effect
+714,29.0,Apple Music,1.0,9.0,3.0,2.0,0.0,No effect
+715,21.0,Spotify,4.0,4.0,6.0,3.0,4.0,Improve
+716,17.0,Spotify,1.0,9.0,8.0,4.0,0.0,Improve
+717,23.0,Spotify,2.0,5.0,7.0,10.0,2.0,No effect
+718,17.0,Spotify,1.0,8.0,3.0,9.0,2.0,No effect
+719,22.0,Spotify,3.0,10.0,10.0,6.0,8.0,Improve
+720,17.0,Spotify,5.0,7.0,7.0,5.0,5.0,Improve
+721,19.0,Spotify,5.0,10.0,8.0,1.0,0.0,Improve
+722,19.0,Spotify,4.0,8.0,6.0,2.0,0.0,Improve
+723,16.0,Spotify,6.0,10.0,7.0,6.0,10.0,Improve
+724,19.0,Spotify,6.0,6.0,6.0,8.0,0.0,Improve
+725,13.0,Spotify,1.0,10.0,10.0,8.0,4.0,Worsen
+726,18.0,Apple Music,18.0,9.0,8.0,5.0,10.0,Improve
+727,26.0,YouTube Music,1.0,0.0,0.0,0.0,0.0,No effect
+728,14.0,Other streaming service,7.0,7.0,3.0,1.0,2.0,Improve
+729,21.0,I do not use a streaming service.,0.5,6.0,2.0,2.0,0.0,Improve
+730,21.0,Spotify,2.0,7.0,6.0,4.0,6.0,Improve
+731,17.0,Spotify,2.0,7.0,6.0,0.0,9.0,Improve
+732,18.0,Spotify,1.0,3.0,2.0,2.0,5.0,Improve
+733,19.0,Other streaming service,6.0,2.0,2.0,2.0,2.0,Improve
+734,19.0,Spotify,5.0,2.0,3.0,2.0,1.0,Improve
+735,29.0,YouTube Music,2.0,2.0,2.0,2.0,5.0,Improve
