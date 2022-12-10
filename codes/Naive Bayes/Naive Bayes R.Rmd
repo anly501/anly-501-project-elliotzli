@@ -1,0 +1,102 @@
+---
+title: "Naive Bayes R"
+author: "Elliot Li"
+date: "2022-12-08"
+output: html_document
+---
+```{r}
+library(naivebayes)
+library(dplyr)
+library(ggplot2)
+library(psych)
+data <- read.csv('../../data/cleaned data/drug-use-by-age.csv',header=T)
+
+#classify age ranges into 12-17,18-22,22-29,30-49,50-65+
+
+data$age <- replace(data$age,1,'12-17')
+data$age <- replace(data$age,2,'12-17')
+data$age <- replace(data$age,3,'12-17')
+data$age <- replace(data$age,4,'12-17')
+data$age <- replace(data$age,5,'12-17')
+data$age <- replace(data$age,6,'12-17')
+
+data$age <- replace(data$age,7,'18-22')
+data$age <- replace(data$age,8,'18-22')
+data$age <- replace(data$age,9,'18-22')
+data$age <- replace(data$age,10,'18-22')
+data$age <- replace(data$age,11,'18-22')
+
+data$age <- replace(data$age,12,'22-29')
+data$age <- replace(data$age,13,'22-29')
+data$age <- replace(data$age,14,'30-49')
+data$age <- replace(data$age,15,'30-49')
+
+data$age <- replace(data$age,16,'50-65+')
+data$age <- replace(data$age,17,'50-65+')
+```
+
+```{r}
+df <- data[,c(1,2,3,5,7,13,17)]
+data$age <- as.factor(data$age)
+str(df)
+df
+```
+
+#Visualization
+
+```{r}
+df %>% ggplot(aes(x = age, y= alcohol.use, fill = age))+geom_point()+ggtitle('Alcohol Intake')
+df %>% ggplot(aes(x = age, y= marijuana.use, fill = age))+geom_point()+ggtitle('Marijuana Intake')
+df %>% ggplot(aes(x = age, y= cocaine.use, fill = age))+geom_point()+ggtitle('Cocaine Intake')
+df %>% ggplot(aes(x = age, y= hallucinogen.use, fill = age))+geom_point()+ggtitle('Hallucinogen Intake')
+df %>% ggplot(aes(x = age, y= pain.releiver.use, fill = age))+geom_point()+ggtitle('Pain Releiver Intake')
+```
+
+#Partition
+
+```{r}
+df1 <- df[c(1:11),]
+#Age Range 20-23 is chosen for training and testing.
+set.seed(1234)
+index <- sample(2,nrow(data),replace=T,prob=c(0.7,0.3))
+train <- df1[index == 1,]
+test <- df1[index == 2,]
+```
+
+Bayes' Theorem
+```{r}
+model <- naive_bayes(age ~.,data = train)
+model
+plot(model)
+```
+
+#Prediction
+```{r}
+p <- predict(model, train, type='prob')
+head(cbind(p,train))
+```
+
+# Confusion Matrix
+```{r}
+p1 <- predict(model,train)
+(table <- table(p1,train$age))
+#No mis-classifications
+```
+```{r}
+p2 <- predict(model,test)
+p2
+(table1 <- table(p2,test$age))
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
