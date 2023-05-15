@@ -1,0 +1,187 @@
+---
+title: "The Mental Health Landscape of Teenagers: A Comprehensive Exploration"
+author: Elliot Li
+date: last-modified
+format: 
+    html:
+        toc: true
+        code-fold: true
+        page-layout: full
+        embed-resources: true
+        code-block-border-left: true
+        self-contained: true
+text-align: left
+execute:
+    echo: true
+    message: false
+    warning: false
+output-file: About Elliot.html
+---
+
+# About Me
+
+**Education**
+
+* Cambridge International AS and A Level in Mathematics, Economics, Business, and Physics
+* University of Connecticut, Bachelor of Science in Finance
+* Georgetown University, Master of Science in Data Science and Analytics
+
+![](intro2.jpeg){width=400}
+
+*University of Connecticut, School of Business on May 12th, 2022*
+
+**Contact**
+
+* Phone: 860-208-7229
+* Email: zl516@georgetown.edu
+* LinkedIn: [Click Here](https://www.linkedin.com/in/zhengze-li-90517b193/)
+
+# Project Introduction
+
+**Why is it important to raise awareness on youth mental health?**
+
+* 1 in 5 U.S. adults experience mental illness each year
+* 1 in 20 U.S. adults experience serious mental illness each year
+* 1 in 6 U.S. youth aged 6-17 experience a mental health disorder each year
+* 50% of all lifetime mental illness begins by age 14, and 75% by age 24
+* Suicide is the 2nd leading cause of death among people aged 10-14
+
+It is becoming increasingly clear that a disproportionate number of younger people are affected by mental illness. According to the World Health Organization, adolescence is a critical time for developing social and emotional habits that are crucial for mental well-being, such as maintaining healthy sleep patterns, exercising regularly, and building coping, problem-solving, and interpersonal skills. It's important to create supportive environments in the family, at school, and in the wider community to promote mental health. Although there is already a lot of research on this topic, I'm interested in exploring it from a holistic perspective.
+
+As a Gen-Z member, LGBTQ+ person, and psychiatric patient, I'm curious about the relationship between mental illness and recreational substance use, as I have observed that youth mental illness correlates with the rise in the usage of such substances. I want to gain a deeper understanding of this issue and find ways to improve the current situation.
+
+**Some questions that this project will address include:**
+
+* Are younger people more vulnerable to mental illness compared to previous generations?
+* Do young people have a higher suicide rate than older individuals?
+* What percentage of people with mental illness seek medical or therapeutic help?
+* Are younger people more likely to use addictive substances?
+* Which substances are most commonly used among younger populations?
+* How do economic and social backgrounds affect substance use?
+* Is there a correlation between substance use and mental illness?
+* Is the suicide rate increasing among younger populations?
+
+# Data & Code
+
+*Code* [Code | GitHub Repo](https://github.com/anly501/anly-501-project-elliotzli/tree/main/codes)
+
+*Data* [Data | GitHub Repo](https://github.com/anly501/anly-501-project-elliotzli/tree/main/data)
+
+
+### Data Gathering
+
+**SAMHSA**
+
+To gain a better understanding of my topic, I used SAMHSA (Substance Abuse and Mental Health Services Administration) as a primary resource. I collected 22 datasets from SAMHSA, which included demographic, geographic, and socioeconomic statistics on various populations affected by mental health issues. The data also covered areas such as attempted suicide, populations undergoing mental health treatments, and substance use, among other things. [Data Source](https://www.samhsa.gov)
+
+**GitHub**
+
+* Raw data is stored under the file name pre-clean data. [pre_clean_data](https://github.com/anly501/anly-501-project-elliotzli/tree/main/data/pre-clean%20data)
+* Detailed information about my collection of SAMHSA can be found here: [Data Table of Content](https://github.com/anly501/anly-501-project-elliotzli/blob/main/data/Data%20Table%20of%20Content.xlsx)
+
+**Twitter API**
+
+I used Twitter API in R to gather data about public opinions on relevant topics. I used keywords:'depressive disorder','high school drug', and 'teen suicide' to gather tweets and formed three wordclouds. [Link to codes for Wordcloud](../codes/Data%20Gathering%20and%20APIs/twitter-r-api-wordcloud.html) Visualizations are shown in the tab Exploring Data.
+
+I used Twitter API in Python to gather tweets on topics 'mental health teenager','substance use young people', and 'lgbtq youth people', and analyzed sentiments. [Link to codes for Sentiment Anlaysis Dataset](../codes/Data%20Gathering%20and%20APIs/twitter%20api%20youth/mental/substance/lgbtq.html)
+
+### Data Cleaning
+
+*Code* [Code | GitHub Repo](https://github.com/anly501/anly-501-project-elliotzli/tree/main/codes/Data%20Cleaning)
+
+# Exploratory Data Analysis
+
+In today's business world, a vast amount of information is collected through data analysis. However, the human brain is not equipped to process such vast amounts of raw, unorganized data. This is where data visualization comes in. It provides a visual context, through maps or graphs, that makes it easier to understand the data findings, identify patterns and trends, and make better decisions faster.
+
+One interesting finding from the datasets is that the age group 18-25 has the highest attempted suicide numbers despite having the least amount of population diagnosed with mental illness. A non-technical conclusion could be that they have less access to mental health resources compared to adults who are more financially independent.
+
+### Population with Any Mental Illness
+
+The dataset reveals that mental illness affects the majority of age, demographic, geographic, and socioeconomic groups, with an overall increase in its population. Specifically, the age group 26-49 has the highest number of people diagnosed with mental illness, whereas the age group 18-25 has a significantly lower number.
+
+Additionally, females are more likely to be diagnosed with mental illness than males. Regional differences also exist, with people living in the North being less likely to be diagnosed with mental illness than those in the South. Furthermore, people residing in larger metropolitan areas tend to have a higher number of mental illness diagnoses.
+
+Finally, there appears to be a correlation between higher education levels and mental illness diagnoses. Specifically, people with higher education are diagnosed with mental illness more often than those with a high school education or below. These insights can be useful in developing targeted interventions and resources to address mental health needs across different populations and regions.
+
+::: {layout-nrow=3}
+![Age](Visualization/Population%20with%20Any%20Mental%20Illness%20%7C%20Age.png)
+
+![Race](Visualization/Population%20with%20Any%20Mental%20Illness%20%7C%20Race.png)
+
+![Geographic Location](Visualization/Population%20with%20Any%20Mental%20Illness%20%7C%20Geographic%20Location.png)
+
+![Urbanization Level](Visualization/Population%20with%20Any%20Mental%20Illness%20%7C%20Urbanization%20Level.png)
+
+![Education Level](Visualization/Population%20with%20Any%20Mental%20Illness%20%7C%20Educational%20Level.png)
+:::
+
+Click here for the code: [Mental Illness  Pattern 2008-2020](../codes/Exploring%20Data/DV%20Any%20Mental%20Illess%202008-2020.html)
+
+### Population Receiving Mental Health Services
+
+Overall, there has been a rise in the number of people receiving mental health services, which is proportionate to the population of individuals with any mental illness. In recent years, the age group 50+ has experienced a significant increase in mental health service utilization. Moreover, there appears to be an increase in mental health awareness among the white population. These findings suggest that efforts to promote mental health and access to mental health services are having a positive impact and should be continued to ensure that individuals of all ages and backgrounds can access the support they need.
+
+::: {layout-nrow=2}
+![Age](Visualization/1.png)
+
+![Race](Visualization/2.png)
+
+![Geographic Location](Visualization/3.png)
+
+![Urbanization Level](Visualization/4.png)
+:::
+
+Click here for the code: [Mental Mental Health Services Pattern 2002-2020](../codes/Exploring%20Data/DV%20Population%20received%20Mental%20Health%20Services%202002-2020)
+
+### Attempted Suicide
+
+The dataset indicates that the age groups of 18-20 and 21-25 exhibit similar patterns, with significantly higher numbers of attempted suicide compared to older age groups. Specifically, the 18-20 age group has the highest attempted suicide rate, followed by the 21-25 age group. On the other hand, the age group of 60-64 has the lowest number of attempted suicides.
+
+Moreover, the data reveals that females have a higher attempted suicide rate than males across all races. When examining the racial breakdown, Asian Americans have the lowest attempted suicide rate, while White Americans have the highest. However, it's worth noting that the percentage of White Americans in the population is much larger than that of Asian Americans, so the difference may reflect population distribution rather than a true racial difference.
+
+::: {layout-ncol=2}
+![Age](Visualization/Attempted%20Suicide%20%7C%20Age%2018-65%2B.png)
+
+![Demographic](Visualization/Attempted%20Suicide%20%7C%20Demographic.png)
+:::
+
+Click here for the code: [Attempted Suicide Pattern 2008-2020](../codes/Exploring%20Data/DV%20Attempted%20Suicide%202008-2020.html)
+
+### WordCloud
+
+::: {layout-ncol=3}
+![1](Visualization/Screenshot%202022-12-10%20at%2020.09.48.png)
+
+![2](Visualization/Screenshot%202022-12-10%20at%2020.10.43.png)
+
+![3](Visualization/Screenshot%202022-12-10%20at%2020.11.24.png)
+:::
+
+# Statistical Methods
+
+#### Naive Bayes
+
+*Code* [Code | Naive Bayes in R](../codes/Naive%20Bayes/Naive-Bayes-R.html)
+
+#### Decision Tree
+
+*Code* [Code | Decision Tree in Python](../codes/Decision%20Tree/Decision%20Tree.html)
+
+#### SVM (Support Vector Machine)
+
+*Code* [Code | SVM](../codes/SVM/SVM.html)
+
+#### Clustering
+
+*Code* [Code | Clustering](../codes/Clustering/Clustering.html)
+
+# Conclusion
+
+In this project, I conducted a thorough exploration of mental health statistics over the past decade, gathering reliable quantitative data from various sources and using Twitter to collect text data. In the Exploring Data tab, I analyzed mental health trends across different populations, including the number of mental health illnesses, the rate of individuals receiving mental health services, and attempted suicide rates. Additionally, I utilized the Twitter API to gather online sentiments regarding young people's mental health-related topics.
+
+After establishing the fundamental facts about the gravity of mental health issues in the US, I used individual data for predictive purposes. Through Naive Bayes, I determined the most effective method for predicting Twitter sentiment. In Decision Tree, I examined the effects of music on one's mental health, and in SVM, I explored suicidal behaviors among adolescents. Finally, in Clustering, I endeavored to cluster the dataset using clustering approaches rather than self-identified music effects.
+
+Overall, I found applying data science concepts to real-world situations to be a rewarding experience that heightened my awareness of the importance of mental health. While there is still much more to learn and explore on this topic, I look forward to revisiting this project as my data science skills improve.
+
+Sincerely,
+Elliot Li
