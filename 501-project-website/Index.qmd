@@ -119,7 +119,7 @@ Finally, there appears to be a correlation between higher education levels and m
 ![Education Level](Visualization/Population%20with%20Any%20Mental%20Illness%20%7C%20Educational%20Level.png)
 :::
 
-Click here for the code: [Mental Illness  Pattern 2008-2020](../codes/Exploring%20Data/DV%20Any%20Mental%20Illess%202008-2020.html)
+Click here for the code: [Mental Illness  Pattern 2008-2020](https://github.com/anly501/anly-501-project-elliotzli/blob/main/codes/Exploring%20Data/DV%20Any%20Mental%20Illess%202008-2020.ipynb)
 
 ### Population Receiving Mental Health Services
 
@@ -135,7 +135,7 @@ Overall, there has been a rise in the number of people receiving mental health s
 ![Urbanization Level](Visualization/4.png)
 :::
 
-Click here for the code: [Mental Mental Health Services Pattern 2002-2020](../codes/Exploring%20Data/DV%20Population%20received%20Mental%20Health%20Services_2002_2020.html)
+Click here for the code: [Mental Mental Health Services Pattern 2002-2020](https://github.com/anly501/anly-501-project-elliotzli/blob/main/codes/Exploring%20Data/DV%20Population%20received%20Mental%20Health%20Services%202002-2020.ipynb)
 
 ### Attempted Suicide
 
@@ -149,7 +149,7 @@ Moreover, the data reveals that females have a higher attempted suicide rate tha
 ![Demographic](Visualization/Attempted%20Suicide%20%7C%20Demographic.png)
 :::
 
-Click here for the code: [Attempted Suicide Pattern 2008-2020](../codes/Exploring%20Data/DV%20Attempted%20Suicide%202008-2020.html)
+Click here for the code: [Attempted Suicide Pattern 2008-2020](https://github.com/anly501/anly-501-project-elliotzli/blob/main/codes/Exploring%20Data/DV%20Attempted%20Suicide%202008-2020.ipynb)
 
 ### WordCloud
 
