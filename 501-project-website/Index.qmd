@@ -135,7 +135,7 @@ Overall, there has been a rise in the number of people receiving mental health s
 ![Urbanization Level](Visualization/4.png)
 :::
 
-Click here for the code: [Mental Mental Health Services Pattern 2002-2020](../codes/Exploring%20Data/DV%20Population%20received%20Mental%20Health%20Services%202002-2020.html)
+Click here for the code: [Mental Mental Health Services Pattern 2002-2020](../codes/Exploring%20Data/DV%20Population%20received%20Mental%20Health%20Services_2002_2020.html)
 
 ### Attempted Suicide
 
