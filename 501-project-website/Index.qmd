@@ -81,9 +81,13 @@ To gain a better understanding of my topic, I used SAMHSA (Substance Abuse and M
 
 **Twitter API**
 
-I used Twitter API in R to gather data about public opinions on relevant topics. I used keywords:'depressive disorder','high school drug', and 'teen suicide' to gather tweets and formed three wordclouds. [Link to codes for Wordcloud](../codes/Data%20Gathering%20and%20APIs/twitter-r-api-wordcloud.html) Visualizations are shown in the tab Exploring Data.
+WordCloud
 
-I used Twitter API in Python to gather tweets on topics 'mental health teenager','substance use young people', and 'lgbtq youth people', and analyzed sentiments. [Link to codes for Sentiment Anlaysis Dataset](../codes/Data%20Gathering%20and%20APIs/twitter%20api%20youth/mental/substance/lgbtq.html)
+* I used Twitter API in R to gather data about public opinions on relevant topics. I used keywords:'depressive disorder','high school drug', and 'teen suicide' to gather tweets and formed three wordclouds. [Link to example codes for Wordcloud](../codes/Data%20Gathering%20and%20APIs/twitter_r_api_wordcloud_highschooldrug.html) Visualizations are shown in the EDA section.
+
+Sentiment Anlaysis 
+
+* I used Twitter API in Python to gather tweets on topics 'mental health teenager','substance use young people', and 'lgbtq youth people', and analyzed sentiments. [Link to codes for Sentiment Anlaysis Dataset](../codes/Data%20Gathering%20and%20APIs/twitter%20api%20youth_mental_substance_lgbtq.html)
 
 ### Data Cleaning
 
@@ -131,7 +135,7 @@ Overall, there has been a rise in the number of people receiving mental health s
 ![Urbanization Level](Visualization/4.png)
 :::
 
-Click here for the code: [Mental Mental Health Services Pattern 2002-2020](../codes/Exploring%20Data/DV%20Population%20received%20Mental%20Health%20Services%202002-2020)
+Click here for the code: [Mental Mental Health Services Pattern 2002-2020](../codes/Exploring%20Data/DV%20Population%20received%20Mental%20Health%20Services%202002-2020.html)
 
 ### Attempted Suicide
 
@@ -149,13 +153,11 @@ Click here for the code: [Attempted Suicide Pattern 2008-2020](../codes/Explorin
 
 ### WordCloud
 
-::: {layout-ncol=3}
-![1](Visualization/Screenshot%202022-12-10%20at%2020.09.48.png)
+*Figure* [WordCloud | 'high school drug'](../codes/Data%20Gathering%20and%20APIs/twitter_r_api_wordcloud_highschooldrug.html)
 
-![2](Visualization/Screenshot%202022-12-10%20at%2020.10.43.png)
+*Figure* [WordCloud | 'mental depression'](../codes/Data%20Gathering%20and%20APIs/twitter_r_api_wordcloud_mentaldepression.html)
 
-![3](Visualization/Screenshot%202022-12-10%20at%2020.11.24.png)
-:::
+*Figure* [WordCloud | 'teen suicide'](../codes/Data%20Gathering%20and%20APIs/twitter_r_api_wordcloud_teensuiside.html)
 
 # Statistical Methods
 
