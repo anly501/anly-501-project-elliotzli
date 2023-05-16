@@ -21,7 +21,7 @@ accessURL='https://api.twitter.com/oauth/access_token'
 authURL='https://api.twitter.com/oauth/authorize'
 
 setup_twitter_oauth(consumerKey,consumerSecret,access_Token,access_Secret)
-Search1<-twitteR::searchTwitter("teen suicide",n=500, since="2022-01-01")
+Search1<-twitteR::searchTwitter("teen suicide",n=5000, since="2022-01-01")
 TweetsDF<- twListToDF(Search1)
 #(TweetsDF$text[1])
 TweetsDF$text <- gsub("[^[:alnum:][:blank:]?&/\\-]", "",TweetsDF$text) # remove alphanumeric characters 

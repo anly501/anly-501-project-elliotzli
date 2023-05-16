@@ -21,19 +21,19 @@ accessURL='https://api.twitter.com/oauth/access_token'
 authURL='https://api.twitter.com/oauth/authorize'
 
 setup_twitter_oauth(consumerKey,consumerSecret,access_Token,access_Secret)
-Search3<-twitteR::searchTwitter("high school drug",n=500, since="2022-01-01")
-TweetsDF3<- twListToDF(Search3)
+Search2<-twitteR::searchTwitter("mental illness",n=5000, since="2022-01-01")
+TweetsDF2<- twListToDF(Search2)
 #(TweetsDF$text[1])
-TweetsDF3$text <- gsub("[^[:alnum:][:blank:]?&/\\-]", "",TweetsDF3$text) # remove alphanumeric characters 
-TweetsDF3$text <- gsub("https\\S*", "",TweetsDF3$text) # remove hyperlinks
+TweetsDF2$text <- gsub("[^[:alnum:][:blank:]?&/\\-]", "",TweetsDF2$text) # remove alphanumeric characters 
+TweetsDF2$text <- gsub("https\\S*", "",TweetsDF2$text) # remove hyperlinks
 #TweetsDF$text = gsub("(?!(#|@))[[:punct:]]", "", text, perl = sT) 
 # remove all punctuations except # and @. 
 
 #create a corpus to allow us clean the text column with tm
-tweets.corpus3 <- Corpus(VectorSource(TweetsDF3$text))
+tweets.corpus2 <- Corpus(VectorSource(TweetsDF2$text))
 
 
-tweets.corpus3 <- tweets.corpus3 %>%
+tweets.corpus2 <- tweets.corpus2 %>%
   tm_map(removeNumbers) %>% # removes numbers from text
   tm_map(removePunctuation) %>% # removes punctuation from text
   tm_map(stripWhitespace) %>% # trims the text of whitespace
@@ -41,19 +41,19 @@ tweets.corpus3 <- tweets.corpus3 %>%
   tm_map(removeWords,stopwords("english")) %>% # remove stopwords
   tm_map(removeWords,stopwords("SMART")) # remove stopwords not removed from previous line
 
-tdm3 <- TermDocumentMatrix(tweets.corpus3) %>% # create a term document matrix
+tdm2 <- TermDocumentMatrix(tweets.corpus2) %>% # create a term document matrix
       as.matrix()
 
-words3 <- sort(rowSums(tdm3), decreasing = TRUE) # count all occurrences of each word and group them
-df3 <- data.frame(word = names(words3), freq = words3) # convert it to a dataframe
-head(df) # visualize!
+words2 <- sort(rowSums(tdm2), decreasing = TRUE) # count all occurrences of each word and group them
+df2 <- data.frame(word = names(words2), freq = words2) # convert it to a dataframe
+head(df2) # visualize!
 
 set.seed(1234) # for reproducibility
-wcloud3 <- wordcloud2(df3,   # generate word cloud
+wcloud2 <- wordcloud2(df2,   # generate word cloud
                      size = 1.5,
                      color= 'random-dark', # set colors
                      #shape = 'pentagon',
                      rotateRatio = 0) #horizontal looks better, but what do you think?
-wcloud3
+wcloud2
 ```
 
